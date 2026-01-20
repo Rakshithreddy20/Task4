@@ -1,7 +1,3 @@
--- =========================================
--- SQL JOINS & BUSINESS ANALYSIS PROJECT
--- Dataset: Chinook Database
--- =========================================
 
 -- =========================================
 -- Query 1: Show all invoices with customer details (INNER JOIN)
