@@ -1,0 +1,16 @@
+Business Insights from Chinook Sales Database
+
+1. Revenue Concentration:
+Analysis shows that a small number of tracks and artists contribute a large portion of the total revenue. This indicates a Pareto effect (80/20 rule), where focusing on top-performing artists and tracks can significantly impact overall sales.
+
+2. Genre Performance:
+Among all genres, Rock generates the highest revenue. This means Rock music is the most commercially successful category in the dataset, and the business should prioritize promoting and expanding content in this genre.
+
+3. Customer Activity:
+All customers in the database have made at least one purchase. There are no inactive customers. This indicates good customer engagement, but it also means the company should focus more on increasing purchase frequency and basket size rather than only customer acquisition.
+
+4. Artist Contribution:
+A few artists contribute disproportionately high revenue compared to others. This suggests that exclusive deals, promotions, or special albums from top artists could significantly boost profits.
+
+5. Product Strategy:
+Since revenue is not evenly distributed across tracks, the company should focus marketing and recommendations on high-performing tracks while using low-performing tracks for bundling or promotional offers.

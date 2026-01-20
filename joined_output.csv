@@ -1,0 +1,1001 @@
+InvoiceId,InvoiceDate,FirstName,LastName,Artist,Track,Genre,UnitPrice,Quantity,Revenue
+98,"2022-03-11 00:00:00",Luís,Gonçalves,"Battlestar Galactica (Classic)","Experiment In Terra","Sci Fi & Fantasy",1.99,1,1.99
+98,"2022-03-11 00:00:00",Luís,Gonçalves,"Battlestar Galactica (Classic)","Take the Celestra","Sci Fi & Fantasy",1.99,1,1.99
+121,"2022-06-13 00:00:00",Luís,Gonçalves,Kiss,"Shout It Out Loud",Rock,0.99,1,0.99
+121,"2022-06-13 00:00:00",Luís,Gonçalves,Kiss,"Calling Dr. Love",Rock,0.99,1,0.99
+121,"2022-06-13 00:00:00",Luís,Gonçalves,Kiss,Strutter,Rock,0.99,1,0.99
+121,"2022-06-13 00:00:00",Luís,Gonçalves,Kiss,"Cold Gin",Rock,0.99,1,0.99
+143,"2022-09-15 00:00:00",Luís,Gonçalves,"Guns N' Roses","Think About You",Rock,0.99,1,0.99
+143,"2022-09-15 00:00:00",Luís,Gonçalves,"Guns N' Roses","Rocket Queen",Rock,0.99,1,0.99
+143,"2022-09-15 00:00:00",Luís,Gonçalves,"Guns N' Roses","Don't Cry (Original)",Rock,0.99,1,0.99
+143,"2022-09-15 00:00:00",Luís,Gonçalves,"Guns N' Roses","Back off Bitch",Rock,0.99,1,0.99
+143,"2022-09-15 00:00:00",Luís,Gonçalves,"Guns N' Roses","Garden of Eden",Rock,0.99,1,0.99
+143,"2022-09-15 00:00:00",Luís,Gonçalves,"Guns N' Roses",Coma,Rock,0.99,1,0.99
+195,"2023-05-06 00:00:00",Luís,Gonçalves,U2,"All Along The Watchtower",Rock,0.99,1,0.99
+316,"2024-10-27 00:00:00",Luís,Gonçalves,"Berliner Philharmoniker & Hans Rosbaud","Karelia Suite, Op.11: 2. Ballade (Tempo Di Menuetto)",Classical,0.99,1,0.99
+316,"2024-10-27 00:00:00",Luís,Gonçalves,"Academy of St. Martin in the Fields & Sir Neville Marriner","Fantasia On Greensleeves",Classical,0.99,1,0.99
+327,"2024-12-07 00:00:00",Luís,Gonçalves,"Chico Science & Nação Zumbi","Interlude Zumbi",Latin,0.99,1,0.99
+327,"2024-12-07 00:00:00",Luís,Gonçalves,"Chico Science & Nação Zumbi","Rios Pontes & Overdrives",Latin,0.99,1,0.99
+327,"2024-12-07 00:00:00",Luís,Gonçalves,"Chico Science & Nação Zumbi","Lixo Do Mangue",Latin,0.99,1,0.99
+327,"2024-12-07 00:00:00",Luís,Gonçalves,"Cidade Negra","Podes Crer",Reggae,0.99,1,0.99
+327,"2024-12-07 00:00:00",Luís,Gonçalves,"Cidade Negra","A Cor Do Sol",Reggae,0.99,1,0.99
+327,"2024-12-07 00:00:00",Luís,Gonçalves,"Cidade Negra",Doutor,Reggae,0.99,1,0.99
+327,"2024-12-07 00:00:00",Luís,Gonçalves,"Cláudio Zoli","Linha Do Equador",Latin,0.99,1,0.99
+327,"2024-12-07 00:00:00",Luís,Gonçalves,"Various Artists",TriboTchan,Pop,0.99,1,0.99
+327,"2024-12-07 00:00:00",Luís,Gonçalves,"Various Artists","Reggae Tchan",Pop,0.99,1,0.99
+327,"2024-12-07 00:00:00",Luís,Gonçalves,"Led Zeppelin","Communication Breakdown(2)",Rock,0.99,1,0.99
+327,"2024-12-07 00:00:00",Luís,Gonçalves,"Frank Zappa & Captain Beefheart","Carolina Hard-Core Ecstasy",Rock,0.99,1,0.99
+327,"2024-12-07 00:00:00",Luís,Gonçalves,"Various Artists","X-9 2001",Soundtrack,0.99,1,0.99
+327,"2024-12-07 00:00:00",Luís,Gonçalves,"Various Artists","Ipiranga 2001",Soundtrack,0.99,1,0.99
+327,"2024-12-07 00:00:00",Luís,Gonçalves,"Marcos Valle","Água de Beber",Latin,0.99,1,0.99
+382,"2025-08-07 00:00:00",Luís,Gonçalves,"Os Paralamas Do Sucesso","Vamo Batê Lata",Latin,0.99,1,0.99
+382,"2025-08-07 00:00:00",Luís,Gonçalves,"Os Paralamas Do Sucesso","Mensagen De Amor (2000)",Latin,0.99,1,0.99
+382,"2025-08-07 00:00:00",Luís,Gonçalves,"Os Paralamas Do Sucesso","Saber Amar",Latin,0.99,1,0.99
+382,"2025-08-07 00:00:00",Luís,Gonçalves,"Os Paralamas Do Sucesso","Cinema Mudo",Latin,0.99,1,0.99
+382,"2025-08-07 00:00:00",Luís,Gonçalves,"Os Paralamas Do Sucesso","Meu Erro",Latin,0.99,1,0.99
+382,"2025-08-07 00:00:00",Luís,Gonçalves,"Os Paralamas Do Sucesso","Será Que Vai Chover?",Latin,0.99,1,0.99
+382,"2025-08-07 00:00:00",Luís,Gonçalves,"Ozzy Osbourne","Mama, I'm Coming Home",Rock,0.99,1,0.99
+382,"2025-08-07 00:00:00",Luís,Gonçalves,"Ozzy Osbourne","Flying High Again",Metal,0.99,1,0.99
+382,"2025-08-07 00:00:00",Luís,Gonçalves,"Ozzy Osbourne",Paranoid,Metal,0.99,1,0.99
+1,"2021-01-01 00:00:00",Leonie,Köhler,Accept,"Balls to the Wall",Rock,0.99,1,0.99
+1,"2021-01-01 00:00:00",Leonie,Köhler,Accept,"Restless and Wild",Rock,0.99,1,0.99
+12,"2021-02-11 00:00:00",Leonie,Köhler,"Various Artists",Lavadeira,Pop,0.99,1,0.99
+12,"2021-02-11 00:00:00",Leonie,Köhler,"Led Zeppelin","Dazed and Confused",Rock,0.99,1,0.99
+12,"2021-02-11 00:00:00",Leonie,Köhler,"Led Zeppelin","You Shook Me(2)",Rock,0.99,1,0.99
+12,"2021-02-11 00:00:00",Leonie,Köhler,"Frank Zappa & Captain Beefheart","Man With The Woman Head",Rock,0.99,1,0.99
+12,"2021-02-11 00:00:00",Leonie,Köhler,"Various Artists","Leandro De Itaquera 2001",Soundtrack,0.99,1,0.99
+12,"2021-02-11 00:00:00",Leonie,Köhler,"Marcos Valle","Vôo Sobre o Horizonte",Latin,0.99,1,0.99
+12,"2021-02-11 00:00:00",Leonie,Köhler,"Marcos Valle","All Star",Latin,0.99,1,0.99
+12,"2021-02-11 00:00:00",Leonie,Köhler,"Antônio Carlos Jobim","Tanto Tempo",Latin,0.99,1,0.99
+12,"2021-02-11 00:00:00",Leonie,Köhler,"Antônio Carlos Jobim","Bumbo Da Mangueira",Latin,0.99,1,0.99
+12,"2021-02-11 00:00:00",Leonie,Köhler,Metallica,"Die Die My Darling",Metal,0.99,1,0.99
+12,"2021-02-11 00:00:00",Leonie,Köhler,Queen,"Radio GA GA",Rock,0.99,1,0.99
+12,"2021-02-11 00:00:00",Leonie,Köhler,Queen,"I'm Going Slightly Mad",Rock,0.99,1,0.99
+12,"2021-02-11 00:00:00",Leonie,Köhler,Kiss,"Sure Know Something",Rock,0.99,1,0.99
+12,"2021-02-11 00:00:00",Leonie,Köhler,Kiss,"God Of Thunder",Rock,0.99,1,0.99
+67,"2021-10-12 00:00:00",Leonie,Köhler,Passengers,"Beach Sequence",Soundtrack,0.99,1,0.99
+67,"2021-10-12 00:00:00",Leonie,Köhler,Passengers,"Plot 180",Soundtrack,0.99,1,0.99
+67,"2021-10-12 00:00:00",Leonie,Köhler,"Paul D'Ianno","Murders In The Rue Morgue",Rock,0.99,1,0.99
+67,"2021-10-12 00:00:00",Leonie,Köhler,"Paul D'Ianno","Iron Maiden",Rock,0.99,1,0.99
+67,"2021-10-12 00:00:00",Leonie,Köhler,"Pearl Jam",Untitled,Rock,0.99,1,0.99
+67,"2021-10-12 00:00:00",Leonie,Köhler,"Pearl Jam",Nothingman,Rock,0.99,1,0.99
+67,"2021-10-12 00:00:00",Leonie,Köhler,"Pearl Jam","World Wide Suicide","Alternative & Punk",0.99,1,0.99
+67,"2021-10-12 00:00:00",Leonie,Köhler,"Pearl Jam","Big Wave","Alternative & Punk",0.99,1,0.99
+67,"2021-10-12 00:00:00",Leonie,Köhler,"Pearl Jam","Can't Keep",Rock,0.99,1,0.99
+196,"2023-05-19 00:00:00",Leonie,Köhler,U2,"I Still Haven't Found What I'm Looking for",Rock,0.99,1,0.99
+196,"2023-05-19 00:00:00",Leonie,Köhler,U2,"Freedom For My People",Rock,0.99,1,0.99
+219,"2023-08-21 00:00:00",Leonie,Köhler,"Bruce Dickinson","The Alchemist",Metal,0.99,1,0.99
+219,"2023-08-21 00:00:00",Leonie,Köhler,"Buddy Guy","First Time I Met The Blues",Blues,0.99,1,0.99
+219,"2023-08-21 00:00:00",Leonie,Köhler,"Buddy Guy","Stone Crazy",Blues,0.99,1,0.99
+219,"2023-08-21 00:00:00",Leonie,Köhler,"Buddy Guy","When My Left Eye Jumps",Blues,0.99,1,0.99
+241,"2023-11-23 00:00:00",Leonie,Köhler,"Eric Clapton","Bell Bottom Blues",Blues,0.99,1,0.99
+241,"2023-11-23 00:00:00",Leonie,Köhler,"Eric Clapton","Swing Low Sweet Chariot",Blues,0.99,1,0.99
+241,"2023-11-23 00:00:00",Leonie,Köhler,"Eric Clapton","Let It Grow",Blues,0.99,1,0.99
+241,"2023-11-23 00:00:00",Leonie,Köhler,"Eric Clapton","Before You Accuse Me",Blues,0.99,1,0.99
+241,"2023-11-23 00:00:00",Leonie,Köhler,"Eric Clapton","Nobody Knows You When You're Down & Out",Blues,0.99,1,0.99
+241,"2023-11-23 00:00:00",Leonie,Köhler,"Eric Clapton",Alberta,Blues,0.99,1,0.99
+293,"2024-07-13 00:00:00",Leonie,Köhler,"The Who","Boris The Spider",Rock,0.99,1,0.99
+99,"2022-03-11 00:00:00",François,Tremblay,Aquaman,Pilot,"TV Shows",1.99,1,1.99
+99,"2022-03-11 00:00:00",François,Tremblay,Lost,"Through the Looking Glass, Pt. 1",Drama,1.99,1,1.99
+110,"2022-04-21 00:00:00",François,Tremblay,"Antônio Carlos Jobim","Canta, Canta Mais",Jazz,0.99,1,0.99
+110,"2022-04-21 00:00:00",François,Tremblay,Audioslave,Cochise,Rock,0.99,1,0.99
+110,"2022-04-21 00:00:00",François,Tremblay,Audioslave,Hypnotize,Rock,0.99,1,0.99
+110,"2022-04-21 00:00:00",François,Tremblay,Audioslave,"Drown Me Slowly","Alternative & Punk",0.99,1,0.99
+110,"2022-04-21 00:00:00",François,Tremblay,BackBeat,"Long Tall Sally","Rock And Roll",0.99,1,0.99
+110,"2022-04-21 00:00:00",François,Tremblay,BackBeat,"Good Golly Miss Molly","Rock And Roll",0.99,1,0.99
+110,"2022-04-21 00:00:00",François,Tremblay,"Billy Cobham","Do what cha wanna",Jazz,0.99,1,0.99
+110,"2022-04-21 00:00:00",François,Tremblay,"Black Label Society",A.N.D.R.O.T.A.Z.,Metal,0.99,1,0.99
+110,"2022-04-21 00:00:00",François,Tremblay,"Black Label Society","The Beginning...At Last",Metal,0.99,1,0.99
+110,"2022-04-21 00:00:00",François,Tremblay,"Black Sabbath","Tomorrow's Dream",Metal,0.99,1,0.99
+110,"2022-04-21 00:00:00",François,Tremblay,"Body Count","Smoked Pork","Alternative & Punk",0.99,1,0.99
+110,"2022-04-21 00:00:00",François,Tremblay,"Body Count",Voodoo,"Alternative & Punk",0.99,1,0.99
+110,"2022-04-21 00:00:00",François,Tremblay,"Bruce Dickinson","Chemical Wedding",Metal,0.99,1,0.99
+110,"2022-04-21 00:00:00",François,Tremblay,"Bruce Dickinson",Realword,Metal,0.99,1,0.99
+165,"2022-12-20 00:00:00",François,Tremblay,Metallica,"Ride The Lightning",Metal,0.99,1,0.99
+165,"2022-12-20 00:00:00",François,Tremblay,Metallica,"The Call Of Ktulu",Metal,0.99,1,0.99
+165,"2022-12-20 00:00:00",François,Tremblay,Metallica,"My World",Metal,0.99,1,0.99
+165,"2022-12-20 00:00:00",François,Tremblay,Metallica,Blackened,Metal,0.99,1,0.99
+165,"2022-12-20 00:00:00",François,Tremblay,Metallica,"The Frayed Ends Of Sanity",Metal,0.99,1,0.99
+165,"2022-12-20 00:00:00",François,Tremblay,"Miles Davis","My Ship",Jazz,0.99,1,0.99
+165,"2022-12-20 00:00:00",François,Tremblay,"Miles Davis","I Don't Wanna Be Kissed (By Anyone But You)",Jazz,0.99,1,0.99
+165,"2022-12-20 00:00:00",François,Tremblay,"Milton Nascimento","A Noite Do Meu Bem",Latin,0.99,1,0.99
+165,"2022-12-20 00:00:00",François,Tremblay,"Milton Nascimento",Brasil,Latin,0.99,1,0.99
+294,"2024-07-26 00:00:00",François,Tremblay,"The Who","Happy Jack",Rock,0.99,1,0.99
+294,"2024-07-26 00:00:00",François,Tremblay,"The Who","Pictures Of Lily",Rock,0.99,1,0.99
+317,"2024-10-28 00:00:00",François,Tremblay,"Felix Schmidt, London Symphony Orchestra & Rafael Frühbeck de Burgos","Concerto for Cello and Orchestra in E minor, Op. 85: I. Adagio - Moderato",Classical,0.99,1,0.99
+317,"2024-10-28 00:00:00",François,Tremblay,"Antal Doráti & London Symphony Orchestra","Wellington's Victory or the Battle Symphony, Op.91: 2. Symphony of Triumph",Classical,0.99,1,0.99
+317,"2024-10-28 00:00:00",François,Tremblay,"Michael Tilson Thomas & San Francisco Symphony","Romeo et Juliette: No. 11 - Danse des Chevaliers",Classical,0.99,1,0.99
+317,"2024-10-28 00:00:00",François,Tremblay,"Michael Tilson Thomas & San Francisco Symphony","Symphonie Fantastique, Op. 14: V. Songe d'une nuit du sabbat",Classical,0.99,1,0.99
+339,"2025-01-30 00:00:00",François,Tremblay,"Gene Krupa","Jungle Drums",Jazz,0.99,1,0.99
+339,"2025-01-30 00:00:00",François,Tremblay,"Toquinho & Vinícius","Pot-Pourri N.º 4","Bossa Nova",0.99,1,0.99
+339,"2025-01-30 00:00:00",François,Tremblay,"Toquinho & Vinícius","Pot-Pourri N.º 5","Bossa Nova",0.99,1,0.99
+339,"2025-01-30 00:00:00",François,Tremblay,"Toquinho & Vinícius","Por Que Será","Bossa Nova",0.99,1,0.99
+339,"2025-01-30 00:00:00",François,Tremblay,"Toquinho & Vinícius","Samba Em Prelúdio","Bossa Nova",0.99,1,0.99
+339,"2025-01-30 00:00:00",François,Tremblay,"Various Artists","Chão de Giz (Elba Ramalho)",Latin,0.99,1,0.99
+391,"2025-09-20 00:00:00",François,Tremblay,"Smashing Pumpkins",Waiting,"Alternative & Punk",0.99,1,0.99
+2,"2021-01-02 00:00:00",Bjørn,Hansen,AC/DC,"Put The Finger On You",Rock,0.99,1,0.99
+2,"2021-01-02 00:00:00",Bjørn,Hansen,AC/DC,"Inject The Venom",Rock,0.99,1,0.99
+2,"2021-01-02 00:00:00",Bjørn,Hansen,AC/DC,"Evil Walks",Rock,0.99,1,0.99
+2,"2021-01-02 00:00:00",Bjørn,Hansen,AC/DC,"Breaking The Rules",Rock,0.99,1,0.99
+24,"2021-04-06 00:00:00",Bjørn,Hansen,"Creedence Clearwater Revival","Born To Move",Rock,0.99,1,0.99
+24,"2021-04-06 00:00:00",Bjørn,Hansen,"Cássia Eller",Brasil,Latin,0.99,1,0.99
+24,"2021-04-06 00:00:00",Bjørn,Hansen,"Cássia Eller","Coroné Antonio Bento",Latin,0.99,1,0.99
+24,"2021-04-06 00:00:00",Bjørn,Hansen,"Cássia Eller","Música Urbana 2",Latin,0.99,1,0.99
+24,"2021-04-06 00:00:00",Bjørn,Hansen,"Cássia Eller","Woman Of The World (Ao Vivo)",Latin,0.99,1,0.99
+24,"2021-04-06 00:00:00",Bjørn,Hansen,"Cássia Eller","Smells Like Teen Spirit (Ao Vivo)",Latin,0.99,1,0.99
+76,"2021-11-25 00:00:00",Bjørn,Hansen,"Stone Temple Pilots",Plush,Rock,0.99,1,0.99
+197,"2023-05-19 00:00:00",Bjørn,Hansen,U2,"Pride (In The Name Of Love)",Rock,0.99,1,0.99
+197,"2023-05-19 00:00:00",Bjørn,Hansen,U2,"Love Rescue Me",Rock,0.99,1,0.99
+208,"2023-06-29 00:00:00",Bjørn,Hansen,"O Rappa","Um Lugar ao Sol",Electronica/Dance,0.99,1,0.99
+208,"2023-06-29 00:00:00",Bjørn,Hansen,"O Rappa","Chega no Suingue",Electronica/Dance,0.99,1,0.99
+208,"2023-06-29 00:00:00",Bjørn,Hansen,Lost,"The Economist",Drama,1.99,1,1.99
+208,"2023-06-29 00:00:00",Bjørn,Hansen,"Habib Koité and Bamada","Din Din Wo (Little Child)",World,0.99,1,0.99
+208,"2023-06-29 00:00:00",Bjørn,Hansen,Lost,"Something Nice Back Home",Drama,1.99,1,1.99
+208,"2023-06-29 00:00:00",Bjørn,Hansen,"Temple of the Dog","Call Me a Dog",Alternative,0.99,1,0.99
+208,"2023-06-29 00:00:00",Bjørn,Hansen,"Chris Cornell","Safe and Sound",Alternative,0.99,1,0.99
+208,"2023-06-29 00:00:00",Bjørn,Hansen,"Chris Cornell","Disappearing Act",Alternative,0.99,1,0.99
+208,"2023-06-29 00:00:00",Bjørn,Hansen,Audioslave,"Shape of Things to Come",Alternative,0.99,1,0.99
+208,"2023-06-29 00:00:00",Bjørn,Hansen,"English Concert & Trevor Pinnock","Canon and Gigue in D Major: I. Canon",Classical,0.99,1,0.99
+208,"2023-06-29 00:00:00",Bjørn,Hansen,"Royal Philharmonic Orchestra & Sir Thomas Beecham","Symphony No. 104 in D Major "London": IV. Finale: Spiritoso",Classical,0.99,1,0.99
+208,"2023-06-29 00:00:00",Bjørn,Hansen,"Eugene Ormandy","Jupiter, the Bringer of Jollity",Classical,0.99,1,0.99
+208,"2023-06-29 00:00:00",Bjørn,Hansen,"Chicago Symphony Orchestra & Fritz Reiner","Scheherazade, Op. 35: I. The Sea and Sindbad's Ship",Classical,0.99,1,0.99
+208,"2023-06-29 00:00:00",Bjørn,Hansen,"Edo de Waart & San Francisco Symphony","Two Fanfares for Orchestra: II. Short Ride in a Fast Machine",Classical,0.99,1,0.99
+263,"2024-02-27 00:00:00",Bjørn,Hansen,"Led Zeppelin","You Shook Me",Rock,0.99,1,0.99
+263,"2024-02-27 00:00:00",Bjørn,Hansen,"Led Zeppelin","How Many More Times",Rock,0.99,1,0.99
+263,"2024-02-27 00:00:00",Bjørn,Hansen,"Led Zeppelin","Living Loving Maid (She's Just A Woman)",Rock,0.99,1,0.99
+263,"2024-02-27 00:00:00",Bjørn,Hansen,"Led Zeppelin","Celebration Day",Rock,0.99,1,0.99
+263,"2024-02-27 00:00:00",Bjørn,Hansen,"Led Zeppelin","Bron-Y-Aur Stomp",Rock,0.99,1,0.99
+263,"2024-02-27 00:00:00",Bjørn,Hansen,"Led Zeppelin","Night Flight",Rock,0.99,1,0.99
+263,"2024-02-27 00:00:00",Bjørn,Hansen,"Led Zeppelin","For Your Life",Rock,0.99,1,0.99
+263,"2024-02-27 00:00:00",Bjørn,Hansen,"Led Zeppelin","Rock & Roll",Rock,0.99,1,0.99
+263,"2024-02-27 00:00:00",Bjørn,Hansen,"Led Zeppelin","Stairway To Heaven",Rock,0.99,1,0.99
+392,"2025-10-03 00:00:00",Bjørn,Hansen,"Smashing Pumpkins",Saturnine,"Alternative & Punk",0.99,1,0.99
+392,"2025-10-03 00:00:00",Bjørn,Hansen,"Smashing Pumpkins","Rock On","Alternative & Punk",0.99,1,0.99
+77,"2021-12-08 00:00:00",František,Wichterlová,"Stone Temple Pilots","Wet My Bed",Rock,0.99,1,0.99
+77,"2021-12-08 00:00:00",František,Wichterlová,"Stone Temple Pilots",Crackerman,Rock,0.99,1,0.99
+100,"2022-03-12 00:00:00",František,Wichterlová,U2,"#9 Dream",Pop,0.99,1,0.99
+100,"2022-03-12 00:00:00",František,Wichterlová,U2,"Give Peace a Chance",Pop,0.99,1,0.99
+100,"2022-03-12 00:00:00",František,Wichterlová,U2,"Whatever Gets You Thru the Night",Pop,0.99,1,0.99
+100,"2022-03-12 00:00:00",František,Wichterlová,U2,"Gimme Some Truth",Pop,0.99,1,0.99
+122,"2022-06-14 00:00:00",František,Wichterlová,"Spyro Gyra","De La Luz",Jazz,0.99,1,0.99
+122,"2022-06-14 00:00:00",František,Wichterlová,"Spyro Gyra",Surrender,Jazz,0.99,1,0.99
+122,"2022-06-14 00:00:00",František,Wichterlová,"Spyro Gyra","When Evening Falls",Jazz,0.99,1,0.99
+122,"2022-06-14 00:00:00",František,Wichterlová,"Green Day","Poprocks And Coke","Alternative & Punk",0.99,1,0.99
+122,"2022-06-14 00:00:00",František,Wichterlová,"Green Day","When I Come Around","Alternative & Punk",0.99,1,0.99
+122,"2022-06-14 00:00:00",František,Wichterlová,"Green Day","Brain Stew","Alternative & Punk",0.99,1,0.99
+174,"2023-02-02 00:00:00",František,Wichterlová,R.E.M.,Untitled,"Alternative & Punk",0.99,1,0.99
+295,"2024-07-26 00:00:00",František,Wichterlová,"The Who","Magic Bus",Rock,0.99,1,0.99
+295,"2024-07-26 00:00:00",František,Wichterlová,"The Who","The Seeker",Rock,0.99,1,0.99
+306,"2024-09-05 00:00:00",František,Wichterlová,"Van Halen",Unchained,Rock,0.99,1,0.99
+306,"2024-09-05 00:00:00",František,Wichterlová,"Van Halen","Humans Being",Rock,0.99,1,0.99
+306,"2024-09-05 00:00:00",František,Wichterlová,"Van Halen","Atomic Punk",Rock,0.99,1,0.99
+306,"2024-09-05 00:00:00",František,Wichterlová,"Van Halen","Dirty Water Dog",Rock,0.99,1,0.99
+306,"2024-09-05 00:00:00",František,Wichterlová,"Velvet Revolver","Do It For The Kids",Rock,0.99,1,0.99
+306,"2024-09-05 00:00:00",František,Wichterlová,"Velvet Revolver",Slither,Rock,0.99,1,0.99
+306,"2024-09-05 00:00:00",František,Wichterlová,"Vinícius De Moraes","Samba Pra Endrigo",Latin,0.99,1,0.99
+306,"2024-09-05 00:00:00",František,Wichterlová,"Lenny Kravitz","Still Of The Night",Metal,0.99,1,0.99
+306,"2024-09-05 00:00:00",František,Wichterlová,"Lenny Kravitz","You're Gonna Break My Hart Again",Metal,0.99,1,0.99
+306,"2024-09-05 00:00:00",František,Wichterlová,"Zeca Pagodinho","Coração Em Desalinho",Latin,0.99,1,0.99
+306,"2024-09-05 00:00:00",František,Wichterlová,"Zeca Pagodinho","Camarão que Dorme e Onda Leva",Latin,0.99,1,0.99
+306,"2024-09-05 00:00:00",František,Wichterlová,Heroes,"The Hard Part",Drama,1.99,1,1.99
+306,"2024-09-05 00:00:00",František,Wichterlová,"The Office","Hot Girl","TV Shows",1.99,1,1.99
+306,"2024-09-05 00:00:00",František,Wichterlová,"The Office","Email Surveillance","TV Shows",1.99,1,1.99
+361,"2025-05-06 00:00:00",František,Wichterlová,"Iron Maiden","Fear Of The Dark",Rock,0.99,1,0.99
+361,"2025-05-06 00:00:00",František,Wichterlová,"Iron Maiden",Moonchild,Metal,0.99,1,0.99
+361,"2025-05-06 00:00:00",František,Wichterlová,"Iron Maiden","The Clairvoyant",Metal,0.99,1,0.99
+361,"2025-05-06 00:00:00",František,Wichterlová,"Iron Maiden","Stranger in a Strange Land",Metal,0.99,1,0.99
+361,"2025-05-06 00:00:00",František,Wichterlová,"Iron Maiden",Gangland,Metal,0.99,1,0.99
+361,"2025-05-06 00:00:00",František,Wichterlová,"Iron Maiden","Sign Of The Cross",Rock,0.99,1,0.99
+361,"2025-05-06 00:00:00",František,Wichterlová,"Iron Maiden","Judgement Of Heaven",Rock,0.99,1,0.99
+361,"2025-05-06 00:00:00",František,Wichterlová,"Iron Maiden","The Angel And The Gambler",Rock,0.99,1,0.99
+361,"2025-05-06 00:00:00",František,Wichterlová,"Iron Maiden","Como Estais Amigos",Rock,0.99,1,0.99
+46,"2021-07-11 00:00:00",Helena,Holý,Jamiroquai,"When You Gonna Learn (Digeridoo)",Rock,0.99,1,0.99
+46,"2021-07-11 00:00:00",Helena,Holý,Jamiroquai,"Whatever It Is, I Just Can't Stop",Rock,0.99,1,0.99
+46,"2021-07-11 00:00:00",Helena,Holý,Jamiroquai,"Black Capricorn Day",R&B/Soul,0.99,1,0.99
+46,"2021-07-11 00:00:00",Helena,Holý,Jamiroquai,"Were Do We Go From Here",R&B/Soul,0.99,1,0.99
+46,"2021-07-11 00:00:00",Helena,Holý,Jamiroquai,"Light Years",Electronica/Dance,0.99,1,0.99
+46,"2021-07-11 00:00:00",Helena,Holý,Jamiroquai,"Morning Glory",Electronica/Dance,0.99,1,0.99
+46,"2021-07-11 00:00:00",Helena,Holý,JET,"Get What You Need","Alternative & Punk",0.99,1,0.99
+46,"2021-07-11 00:00:00",Helena,Holý,JET,"Take It Or Leave It","Alternative & Punk",0.99,1,0.99
+46,"2021-07-11 00:00:00",Helena,Holý,"Jimi Hendrix","Can You See Me",Rock,0.99,1,0.99
+175,"2023-02-15 00:00:00",Helena,Holý,R.E.M.,"How The West Was Won And Where It Got Us",Rock,0.99,1,0.99
+175,"2023-02-15 00:00:00",Helena,Holý,R.E.M.,"The Wake-Up Bomb",Rock,0.99,1,0.99
+198,"2023-05-20 00:00:00",Helena,Holý,U2,Heartland,Rock,0.99,1,0.99
+198,"2023-05-20 00:00:00",Helena,Holý,U2,"The Star Spangled Banner",Rock,0.99,1,0.99
+198,"2023-05-20 00:00:00",Helena,Holý,U2,"All I Want Is You",Rock,0.99,1,0.99
+198,"2023-05-20 00:00:00",Helena,Holý,U2,"New Year's Day",Rock,0.99,1,0.99
+220,"2023-08-22 00:00:00",Helena,Holý,"Buddy Guy","My Time After Awhile",Blues,0.99,1,0.99
+220,"2023-08-22 00:00:00",Helena,Holý,"Caetano Veloso","Prenda Minha",Latin,0.99,1,0.99
+220,"2023-08-22 00:00:00",Helena,Holý,"Caetano Veloso","Texto "Verdade Tropical"",Latin,0.99,1,0.99
+220,"2023-08-22 00:00:00",Helena,Holý,"Caetano Veloso",Carolina,Latin,0.99,1,0.99
+220,"2023-08-22 00:00:00",Helena,Holý,"Caetano Veloso","Linha Do Equador",Latin,0.99,1,0.99
+220,"2023-08-22 00:00:00",Helena,Holý,"Caetano Veloso","Vida Boa",Latin,0.99,1,0.99
+272,"2024-04-11 00:00:00",Helena,Holý,Olodum,"Revolta Olodum",Latin,0.99,1,0.99
+393,"2025-10-03 00:00:00",Helena,Holý,"Smashing Pumpkins",Winterlong,"Alternative & Punk",0.99,1,0.99
+393,"2025-10-03 00:00:00",Helena,Holý,"Smashing Pumpkins","Blissed & Gone","Alternative & Punk",0.99,1,0.99
+404,"2025-11-13 00:00:00",Helena,Holý,Titãs,Insensível,"Alternative & Punk",0.99,1,0.99
+404,"2025-11-13 00:00:00",Helena,Holý,"Battlestar Galactica",Collaborators,"TV Shows",1.99,1,1.99
+404,"2025-11-13 00:00:00",Helena,Holý,"Battlestar Galactica","The Woman King","Science Fiction",1.99,1,1.99
+404,"2025-11-13 00:00:00",Helena,Holý,Heroes,"One Giant Leap",Drama,1.99,1,1.99
+404,"2025-11-13 00:00:00",Helena,Holý,Heroes,"The Fix",Drama,1.99,1,1.99
+404,"2025-11-13 00:00:00",Helena,Holý,Lost,"Man of Science, Man of Faith (Premiere)","TV Shows",1.99,1,1.99
+404,"2025-11-13 00:00:00",Helena,Holý,Lost,Walkabout,"TV Shows",1.99,1,1.99
+404,"2025-11-13 00:00:00",Helena,Holý,Lost,"The Moth","TV Shows",1.99,1,1.99
+404,"2025-11-13 00:00:00",Helena,Holý,Lost,"Stranger In a Strange Land",Drama,1.99,1,1.99
+404,"2025-11-13 00:00:00",Helena,Holý,Lost,"Par Avion",Drama,1.99,1,1.99
+404,"2025-11-13 00:00:00",Helena,Holý,Lost,Outlaws,"TV Shows",1.99,1,1.99
+404,"2025-11-13 00:00:00",Helena,Holý,Lost,"Deus Ex Machina","TV Shows",1.99,1,1.99
+404,"2025-11-13 00:00:00",Helena,Holý,Lost,"Live Together, Die Alone, Pt. 1",Drama,1.99,1,1.99
+404,"2025-11-13 00:00:00",Helena,Holý,U2,"So Cruel",Rock,0.99,1,0.99
+78,"2021-12-08 00:00:00",Astrid,Gruber,"System Of A Down","Soldier Side - Intro",Metal,0.99,1,0.99
+78,"2021-12-08 00:00:00",Astrid,Gruber,"System Of A Down",Revenga,Metal,0.99,1,0.99
+89,"2022-01-18 00:00:00",Astrid,Gruber,Lost,Solitary,"TV Shows",1.99,1,1.99
+89,"2022-01-18 00:00:00",Astrid,Gruber,Lost,"Fire + Water",Drama,1.99,1,1.99
+89,"2022-01-18 00:00:00",Astrid,Gruber,Lost,Homecoming,"TV Shows",1.99,1,1.99
+89,"2022-01-18 00:00:00",Astrid,Gruber,Lost,Dave,"TV Shows",1.99,1,1.99
+89,"2022-01-18 00:00:00",Astrid,Gruber,Lost,"Born to Run","TV Shows",1.99,1,1.99
+89,"2022-01-18 00:00:00",Astrid,Gruber,U2,One,Rock,0.99,1,0.99
+89,"2022-01-18 00:00:00",Astrid,Gruber,U2,"Love Is Blindness",Rock,0.99,1,0.99
+89,"2022-01-18 00:00:00",Astrid,Gruber,U2,"When I Look At The World",Rock,0.99,1,0.99
+89,"2022-01-18 00:00:00",Astrid,Gruber,U2,"Everlasting Love",Rock,0.99,1,0.99
+89,"2022-01-18 00:00:00",Astrid,Gruber,U2,Vertigo,Rock,0.99,1,0.99
+89,"2022-01-18 00:00:00",Astrid,Gruber,U2,"Original Of The Species",Rock,0.99,1,0.99
+89,"2022-01-18 00:00:00",Astrid,Gruber,U2,Miami,Rock,0.99,1,0.99
+89,"2022-01-18 00:00:00",Astrid,Gruber,U2,"All Along The Watchtower",Rock,0.99,1,0.99
+89,"2022-01-18 00:00:00",Astrid,Gruber,U2,"God Part II",Rock,0.99,1,0.99
+144,"2022-09-18 00:00:00",Astrid,Gruber,"Guns N' Roses","Shotgun Blues",Metal,0.99,1,0.99
+144,"2022-09-18 00:00:00",Astrid,Gruber,"Guns N' Roses","You Could Be Mine",Metal,0.99,1,0.99
+144,"2022-09-18 00:00:00",Astrid,Gruber,Incognito,"Deep Waters",Jazz,0.99,1,0.99
+144,"2022-09-18 00:00:00",Astrid,Gruber,Incognito,"Thinking 'Bout Tomorrow",Jazz,0.99,1,0.99
+144,"2022-09-18 00:00:00",Astrid,Gruber,"Iron Maiden","Brighter Than a Thousand Suns",Rock,0.99,1,0.99
+144,"2022-09-18 00:00:00",Astrid,Gruber,"Iron Maiden","Lord of Light",Rock,0.99,1,0.99
+144,"2022-09-18 00:00:00",Astrid,Gruber,"Iron Maiden",Transylvania,Metal,0.99,1,0.99
+144,"2022-09-18 00:00:00",Astrid,Gruber,"Iron Maiden","2 Minutes To Midnight",Metal,0.99,1,0.99
+144,"2022-09-18 00:00:00",Astrid,Gruber,"Iron Maiden","Wasting Love",Metal,0.99,1,0.99
+273,"2024-04-24 00:00:00",Astrid,Gruber,Olodum,"Reggae Odoyá",Latin,0.99,1,0.99
+273,"2024-04-24 00:00:00",Astrid,Gruber,Olodum,"Protesto Do Olodum (Ao Vivo)",Latin,0.99,1,0.99
+296,"2024-07-27 00:00:00",Astrid,Gruber,"The Who","Won't Get Fooled Again (Full Length Version)",Rock,0.99,1,0.99
+296,"2024-07-27 00:00:00",Astrid,Gruber,"The Who",5.15,Rock,0.99,1,0.99
+296,"2024-07-27 00:00:00",Astrid,Gruber,"The Who","Squeeze Box",Rock,0.99,1,0.99
+296,"2024-07-27 00:00:00",Astrid,Gruber,"The Who","You Better You Bet",Rock,0.99,1,0.99
+318,"2024-10-29 00:00:00",Astrid,Gruber,"Berliner Philharmoniker & Herbert Von Karajan","Peer Gynt Suite No.1, Op.46: 1. Morning Mood",Classical,0.99,1,0.99
+318,"2024-10-29 00:00:00",Astrid,Gruber,"Berliner Philharmoniker & Herbert Von Karajan","Symphony No. 41 in C Major, K. 551, "Jupiter": IV. Molto allegro",Classical,0.99,1,0.99
+318,"2024-10-29 00:00:00",Astrid,Gruber,"Amy Winehouse","Just Friends",R&B/Soul,0.99,1,0.99
+318,"2024-10-29 00:00:00",Astrid,Gruber,"Amy Winehouse","Wake Up Alone",R&B/Soul,0.99,1,0.99
+318,"2024-10-29 00:00:00",Astrid,Gruber,"Amy Winehouse","Rehab (Hot Chip Remix)",R&B/Soul,0.99,1,0.99
+318,"2024-10-29 00:00:00",Astrid,Gruber,"Amy Winehouse","I Heard Love Is Blind",Pop,0.99,1,0.99
+370,"2025-06-19 00:00:00",Astrid,Gruber,"Marvin Gaye","Abraham, Martin And John",R&B/Soul,0.99,1,0.99
+3,"2021-01-03 00:00:00",Daan,Peeters,AC/DC,"Dog Eat Dog",Rock,0.99,1,0.99
+3,"2021-01-03 00:00:00",Daan,Peeters,AC/DC,Overdose,Rock,0.99,1,0.99
+3,"2021-01-03 00:00:00",Daan,Peeters,Aerosmith,"Love In An Elevator",Rock,0.99,1,0.99
+3,"2021-01-03 00:00:00",Daan,Peeters,Aerosmith,"Janie's Got A Gun",Rock,0.99,1,0.99
+3,"2021-01-03 00:00:00",Daan,Peeters,Aerosmith,"Deuces Are Wild",Rock,0.99,1,0.99
+3,"2021-01-03 00:00:00",Daan,Peeters,Aerosmith,Angel,Rock,0.99,1,0.99
+55,"2021-08-24 00:00:00",Daan,Peeters,Metallica,"Master Of Puppets",Metal,0.99,1,0.99
+176,"2023-02-15 00:00:00",Daan,Peeters,R.E.M.,Undertow,Rock,0.99,1,0.99
+176,"2023-02-15 00:00:00",Daan,Peeters,R.E.M.,Leave,Rock,0.99,1,0.99
+187,"2023-03-28 00:00:00",Daan,Peeters,"The Cult","Love Removal Machine",Rock,0.99,1,0.99
+187,"2023-03-28 00:00:00",Daan,Peeters,"The Cult","Sweet Soul Sister",Rock,0.99,1,0.99
+187,"2023-03-28 00:00:00",Daan,Peeters,"The Doors","I Looked At You",Rock,0.99,1,0.99
+187,"2023-03-28 00:00:00",Daan,Peeters,"The Police","De Do Do Do, De Da Da Da",Rock,0.99,1,0.99
+187,"2023-03-28 00:00:00",Daan,Peeters,"The Rolling Stones","Time Is On My Side",Rock,0.99,1,0.99
+187,"2023-03-28 00:00:00",Daan,Peeters,"The Rolling Stones","Under My Thumb",Rock,0.99,1,0.99
+187,"2023-03-28 00:00:00",Daan,Peeters,"The Rolling Stones","Saint Of Me",Rock,0.99,1,0.99
+187,"2023-03-28 00:00:00",Daan,Peeters,"The Rolling Stones","You Got Me Rocking",Rock,0.99,1,0.99
+187,"2023-03-28 00:00:00",Daan,Peeters,"The Rolling Stones","Suck On The Jugular",Rock,0.99,1,0.99
+187,"2023-03-28 00:00:00",Daan,Peeters,"The Tea Party","Sister Awake","Alternative & Punk",0.99,1,0.99
+187,"2023-03-28 00:00:00",Daan,Peeters,"The Tea Party","Life Line","Alternative & Punk",0.99,1,0.99
+187,"2023-03-28 00:00:00",Daan,Peeters,"The Tea Party",Babylon,"Alternative & Punk",0.99,1,0.99
+187,"2023-03-28 00:00:00",Daan,Peeters,"The Who","Boris The Spider",Rock,0.99,1,0.99
+187,"2023-03-28 00:00:00",Daan,Peeters,"The Who","Let's See Action",Rock,0.99,1,0.99
+242,"2023-11-26 00:00:00",Daan,Peeters,"Faith No More",Stripsearch,"Alternative & Punk",0.99,1,0.99
+242,"2023-11-26 00:00:00",Daan,Peeters,"Faith No More","She Loves Me Not","Alternative & Punk",0.99,1,0.99
+242,"2023-11-26 00:00:00",Daan,Peeters,"Faith No More",Caffeine,"Alternative & Punk",0.99,1,0.99
+242,"2023-11-26 00:00:00",Daan,Peeters,"Faith No More",Kindergarten,"Alternative & Punk",0.99,1,0.99
+242,"2023-11-26 00:00:00",Daan,Peeters,"Faith No More",Easy,"Alternative & Punk",0.99,1,0.99
+242,"2023-11-26 00:00:00",Daan,Peeters,"Faith No More","Cuckoo For Caca",Rock,0.99,1,0.99
+242,"2023-11-26 00:00:00",Daan,Peeters,"Faith No More","What A Day",Rock,0.99,1,0.99
+242,"2023-11-26 00:00:00",Daan,Peeters,"Faith No More","Falling To Pieces","Alternative & Punk",0.99,1,0.99
+242,"2023-11-26 00:00:00",Daan,Peeters,"Faith No More","Woodpecker From Mars","Alternative & Punk",0.99,1,0.99
+371,"2025-07-02 00:00:00",Daan,Peeters,"Marvin Gaye","Save The Children",R&B/Soul,0.99,1,0.99
+371,"2025-07-02 00:00:00",Daan,Peeters,"Marvin Gaye","You Sure Love To Ball",R&B/Soul,0.99,1,0.99
+394,"2025-10-04 00:00:00",Daan,Peeters,"Smashing Pumpkins",Rhinocerous,"Alternative & Punk",0.99,1,0.99
+394,"2025-10-04 00:00:00",Daan,Peeters,"Smashing Pumpkins","Cherub Rock","Alternative & Punk",0.99,1,0.99
+394,"2025-10-04 00:00:00",Daan,Peeters,"Smashing Pumpkins",Disarm,"Alternative & Punk",0.99,1,0.99
+394,"2025-10-04 00:00:00",Daan,Peeters,"Smashing Pumpkins","Bullet With Butterfly Wings","Alternative & Punk",0.99,1,0.99
+56,"2021-09-06 00:00:00",Kara,Nielsen,Metallica,"The Thing That Should Not Be",Metal,0.99,1,0.99
+56,"2021-09-06 00:00:00",Kara,Nielsen,Metallica,"Welcome Home (Sanitarium)",Metal,0.99,1,0.99
+79,"2021-12-09 00:00:00",Kara,Nielsen,"System Of A Down",Radio/Video,Metal,0.99,1,0.99
+79,"2021-12-09 00:00:00",Kara,Nielsen,"System Of A Down","Violent Pornography",Metal,0.99,1,0.99
+79,"2021-12-09 00:00:00",Kara,Nielsen,"System Of A Down","Sad Statue",Metal,0.99,1,0.99
+79,"2021-12-09 00:00:00",Kara,Nielsen,"System Of A Down","Lost in Hollywood",Metal,0.99,1,0.99
+101,"2022-03-13 00:00:00",Kara,Nielsen,U2,"Jealous Guy",Pop,0.99,1,0.99
+101,"2022-03-13 00:00:00",Kara,Nielsen,U2,"Beautiful Boy",Pop,0.99,1,0.99
+101,"2022-03-13 00:00:00",Kara,Nielsen,U2,"Gimme Some Truth",Pop,0.99,1,0.99
+101,"2022-03-13 00:00:00",Kara,Nielsen,"Ozzy Osbourne","Sympton of the Universe",Rock,0.99,1,0.99
+101,"2022-03-13 00:00:00",Kara,Nielsen,"Ozzy Osbourne","War Pigs",Rock,0.99,1,0.99
+101,"2022-03-13 00:00:00",Kara,Nielsen,"Ozzy Osbourne","Never Say Die",Rock,0.99,1,0.99
+153,"2022-11-01 00:00:00",Kara,Nielsen,"Led Zeppelin","Dancing Days",Rock,0.99,1,0.99
+274,"2024-04-24 00:00:00",Kara,Nielsen,"Os Paralamas Do Sucesso","Vulcão Dub - Fui Eu",Latin,0.99,1,0.99
+274,"2024-04-24 00:00:00",Kara,Nielsen,"Os Paralamas Do Sucesso",Manguetown,Latin,0.99,1,0.99
+285,"2024-06-04 00:00:00",Kara,Nielsen,"Red Hot Chili Peppers","Sir Psycho Sexy","Alternative & Punk",0.99,1,0.99
+285,"2024-06-04 00:00:00",Kara,Nielsen,"Red Hot Chili Peppers","I Could Die For You",Rock,0.99,1,0.99
+285,"2024-06-04 00:00:00",Kara,Nielsen,"Red Hot Chili Peppers","Around The World",Rock,0.99,1,0.99
+285,"2024-06-04 00:00:00",Kara,Nielsen,"Red Hot Chili Peppers","I Like Dirt",Rock,0.99,1,0.99
+285,"2024-06-04 00:00:00",Kara,Nielsen,Rush,Freewill,Rock,0.99,1,0.99
+285,"2024-06-04 00:00:00",Kara,Nielsen,Rush,"Fly By Night",Rock,0.99,1,0.99
+285,"2024-06-04 00:00:00",Kara,Nielsen,Santana,"Santana Jam",Rock,0.99,1,0.99
+285,"2024-06-04 00:00:00",Kara,Nielsen,"Lenny Kravitz","The Right Thing",Rock,0.99,1,0.99
+285,"2024-06-04 00:00:00",Kara,Nielsen,"Lenny Kravitz","For Your Babies",Rock,0.99,1,0.99
+285,"2024-06-04 00:00:00",Kara,Nielsen,Skank,Muçulmano,Rock,0.99,1,0.99
+285,"2024-06-04 00:00:00",Kara,Nielsen,Skank,"Zé Trindade",Rock,0.99,1,0.99
+285,"2024-06-04 00:00:00",Kara,Nielsen,"Smashing Pumpkins","Lucky 13","Alternative & Punk",0.99,1,0.99
+285,"2024-06-04 00:00:00",Kara,Nielsen,"Smashing Pumpkins",Waiting,"Alternative & Punk",0.99,1,0.99
+285,"2024-06-04 00:00:00",Kara,Nielsen,"Smashing Pumpkins",Drown,"Alternative & Punk",0.99,1,0.99
+340,"2025-02-02 00:00:00",Kara,Nielsen,"Various Artists","Caçador de Mim (Sá & Guarabyra)",Latin,0.99,1,0.99
+340,"2025-02-02 00:00:00",Kara,Nielsen,"Creedence Clearwater Revival","Susie Q",Rock,0.99,1,0.99
+340,"2025-02-02 00:00:00",Kara,Nielsen,"Creedence Clearwater Revival",Commotion,Rock,0.99,1,0.99
+340,"2025-02-02 00:00:00",Kara,Nielsen,"Creedence Clearwater Revival","Run Through The Jungle",Rock,0.99,1,0.99
+340,"2025-02-02 00:00:00",Kara,Nielsen,"Creedence Clearwater Revival","Sweet Hitch-Hiker",Rock,0.99,1,0.99
+340,"2025-02-02 00:00:00",Kara,Nielsen,"Creedence Clearwater Revival","Tombstone Shadow",Rock,0.99,1,0.99
+340,"2025-02-02 00:00:00",Kara,Nielsen,"Creedence Clearwater Revival","The Midnight Special",Rock,0.99,1,0.99
+340,"2025-02-02 00:00:00",Kara,Nielsen,"Creedence Clearwater Revival",Molina,Rock,0.99,1,0.99
+340,"2025-02-02 00:00:00",Kara,Nielsen,"Cássia Eller","Eu Sou Neguinha (Ao Vivo)",Latin,0.99,1,0.99
+25,"2021-04-09 00:00:00",Eduardo,Martins,"Cássia Eller","Admirável Gado Novo",Latin,0.99,1,0.99
+25,"2021-04-09 00:00:00",Eduardo,Martins,"Cássia Eller","Mis Penas Lloraba Yo (Ao Vivo) Soy Gitano (Tangos)",Latin,0.99,1,0.99
+25,"2021-04-09 00:00:00",Eduardo,Martins,"Deep Purple",Drifter,Rock,0.99,1,0.99
+25,"2021-04-09 00:00:00",Eduardo,Martins,"Deep Purple","Child In Time",Rock,0.99,1,0.99
+25,"2021-04-09 00:00:00",Eduardo,Martins,"Deep Purple","No No No",Rock,0.99,1,0.99
+25,"2021-04-09 00:00:00",Eduardo,Martins,"Deep Purple","Knocking At Your Back Door",Rock,0.99,1,0.99
+25,"2021-04-09 00:00:00",Eduardo,Martins,"Deep Purple","The Unwritten Law",Rock,0.99,1,0.99
+25,"2021-04-09 00:00:00",Eduardo,Martins,"Deep Purple","Maybe I'm A Leo",Rock,0.99,1,0.99
+25,"2021-04-09 00:00:00",Eduardo,Martins,"Deep Purple","Vavoom : Ted The Mechanic",Rock,0.99,1,0.99
+154,"2022-11-14 00:00:00",Eduardo,Martins,"Led Zeppelin","D'Yer Mak'er",Rock,0.99,1,0.99
+154,"2022-11-14 00:00:00",Eduardo,Martins,"Led Zeppelin","No Quarter",Rock,0.99,1,0.99
+177,"2023-02-16 00:00:00",Eduardo,Martins,R.E.M.,"Bittersweet Me",Rock,0.99,1,0.99
+177,"2023-02-16 00:00:00",Eduardo,Martins,R.E.M.,"Binky The Doormat",Rock,0.99,1,0.99
+177,"2023-02-16 00:00:00",Eduardo,Martins,R.E.M.,"So Fast, So Numb",Rock,0.99,1,0.99
+177,"2023-02-16 00:00:00",Eduardo,Martins,R.E.M.,Electrolite,Rock,0.99,1,0.99
+199,"2023-05-21 00:00:00",Eduardo,Martins,U2,Bad,Rock,0.99,1,0.99
+199,"2023-05-21 00:00:00",Eduardo,Martins,U2,"Sweetest Thing",Rock,0.99,1,0.99
+199,"2023-05-21 00:00:00",Eduardo,Martins,U2,"All I Want Is You",Rock,0.99,1,0.99
+199,"2023-05-21 00:00:00",Eduardo,Martins,U2,"Like A Song...",Rock,0.99,1,0.99
+199,"2023-05-21 00:00:00",Eduardo,Martins,U2,"Red Light",Rock,0.99,1,0.99
+199,"2023-05-21 00:00:00",Eduardo,Martins,U2,Babyface,Rock,0.99,1,0.99
+251,"2024-01-09 00:00:00",Eduardo,Martins,"Iron Maiden","Aces High",Metal,0.99,1,0.99
+372,"2025-07-02 00:00:00",Eduardo,Martins,"Marvin Gaye",Praise,R&B/Soul,0.99,1,0.99
+372,"2025-07-02 00:00:00",Eduardo,Martins,"Men At Work","Down Under",Rock,0.99,1,0.99
+383,"2025-08-12 00:00:00",Eduardo,Martins,"Page & Plant","Most High",Rock,0.99,1,0.99
+383,"2025-08-12 00:00:00",Eduardo,Martins,Passengers,"Your Blue Room",Soundtrack,0.99,1,0.99
+383,"2025-08-12 00:00:00",Eduardo,Martins,Passengers,"Plot 180",Soundtrack,0.99,1,0.99
+383,"2025-08-12 00:00:00",Eduardo,Martins,"Paul D'Ianno",Sanctuary,Rock,0.99,1,0.99
+383,"2025-08-12 00:00:00",Eduardo,Martins,"Pearl Jam",Untitled,Rock,0.99,1,0.99
+383,"2025-08-12 00:00:00",Eduardo,Martins,"Pearl Jam",Black,Rock,0.99,1,0.99
+383,"2025-08-12 00:00:00",Eduardo,Martins,"Pearl Jam","Big Wave","Alternative & Punk",0.99,1,0.99
+383,"2025-08-12 00:00:00",Eduardo,Martins,"Pearl Jam",Cropduster,Rock,0.99,1,0.99
+383,"2025-08-12 00:00:00",Eduardo,Martins,"Pearl Jam","1/2 Full",Rock,0.99,1,0.99
+383,"2025-08-12 00:00:00",Eduardo,Martins,"Pearl Jam",Oceans,Rock,0.99,1,0.99
+383,"2025-08-12 00:00:00",Eduardo,Martins,"Pearl Jam",Dissident,Rock,0.99,1,0.99
+383,"2025-08-12 00:00:00",Eduardo,Martins,"Lenny Kravitz","Don't Look Back",Reggae,0.99,1,0.99
+383,"2025-08-12 00:00:00",Eduardo,Martins,"Lenny Kravitz","Pick Myself Up",Reggae,0.99,1,0.99
+383,"2025-08-12 00:00:00",Eduardo,Martins,"Pink Floyd","Any Colour You Like",Rock,0.99,1,0.99
+57,"2021-09-06 00:00:00",Alexandre,Rocha,Metallica,"Leper Messiah",Metal,0.99,1,0.99
+57,"2021-09-06 00:00:00",Alexandre,Rocha,Metallica,"Damage Inc.",Metal,0.99,1,0.99
+68,"2021-10-17 00:00:00",Alexandre,Rocha,"Pearl Jam","Green Disease",Rock,0.99,1,0.99
+68,"2021-10-17 00:00:00",Alexandre,Rocha,"Pearl Jam","Why Go",Rock,0.99,1,0.99
+68,"2021-10-17 00:00:00",Alexandre,Rocha,"Pearl Jam",Animal,Rock,0.99,1,0.99
+68,"2021-10-17 00:00:00",Alexandre,Rocha,"Pearl Jam",Leash,Rock,0.99,1,0.99
+68,"2021-10-17 00:00:00",Alexandre,Rocha,"Lenny Kravitz","Wanted Dread And Alive",Reggae,0.99,1,0.99
+68,"2021-10-17 00:00:00",Alexandre,Rocha,"Pink Floyd","The Great Gig In The Sky",Rock,0.99,1,0.99
+68,"2021-10-17 00:00:00",Alexandre,Rocha,"Planet Hemp",Bossa,"Hip Hop/Rap",0.99,1,0.99
+68,"2021-10-17 00:00:00",Alexandre,Rocha,"Planet Hemp","Nega Do Cabelo Duro","Hip Hop/Rap",0.99,1,0.99
+68,"2021-10-17 00:00:00",Alexandre,Rocha,Queen,"You're My Best Friend",Rock,0.99,1,0.99
+68,"2021-10-17 00:00:00",Alexandre,Rocha,Queen,"Seven Seas Of Rhye",Rock,0.99,1,0.99
+68,"2021-10-17 00:00:00",Alexandre,Rocha,Queen,"Get Down, Make Love",Rock,0.99,1,0.99
+68,"2021-10-17 00:00:00",Alexandre,Rocha,R.E.M.,"Get Up","Alternative & Punk",0.99,1,0.99
+68,"2021-10-17 00:00:00",Alexandre,Rocha,R.E.M.,Untitled,"Alternative & Punk",0.99,1,0.99
+68,"2021-10-17 00:00:00",Alexandre,Rocha,R.E.M.,"Be Mine",Rock,0.99,1,0.99
+123,"2022-06-17 00:00:00",Alexandre,Rocha,"Green Day",Redundant,"Alternative & Punk",0.99,1,0.99
+123,"2022-06-17 00:00:00",Alexandre,Rocha,"David Coverdale","Into The Light",Rock,0.99,1,0.99
+123,"2022-06-17 00:00:00",Alexandre,Rocha,"David Coverdale","Cry For Love",Rock,0.99,1,0.99
+123,"2022-06-17 00:00:00",Alexandre,Rocha,Gonzaguinha,"Grito De Alerta",Latin,0.99,1,0.99
+123,"2022-06-17 00:00:00",Alexandre,Rocha,Gonzaguinha,"Lindo Lago Do Amor",Latin,0.99,1,0.99
+123,"2022-06-17 00:00:00",Alexandre,Rocha,Gonzaguinha,"Ponto De Interrogação",Latin,0.99,1,0.99
+123,"2022-06-17 00:00:00",Alexandre,Rocha,"Chico Buarque","Voce Nao Entende Nada - Cotidiano",Latin,0.99,1,0.99
+123,"2022-06-17 00:00:00",Alexandre,Rocha,"Chico Buarque","O Leaozinho",Latin,0.99,1,0.99
+123,"2022-06-17 00:00:00",Alexandre,Rocha,"Os Mutantes","Top Top","Alternative & Punk",0.99,1,0.99
+252,"2024-01-22 00:00:00",Alexandre,Rocha,"Iron Maiden","2 Minutes To Midnight",Metal,0.99,1,0.99
+252,"2024-01-22 00:00:00",Alexandre,Rocha,"Iron Maiden","Losfer Words",Metal,0.99,1,0.99
+275,"2024-04-25 00:00:00",Alexandre,Rocha,"Os Paralamas Do Sucesso",Bora-Bora,Latin,0.99,1,0.99
+275,"2024-04-25 00:00:00",Alexandre,Rocha,"Os Paralamas Do Sucesso","I Feel Good (I Got You) - Sossego",Latin,0.99,1,0.99
+275,"2024-04-25 00:00:00",Alexandre,Rocha,"Os Paralamas Do Sucesso","Sincero Breu",Latin,0.99,1,0.99
+275,"2024-04-25 00:00:00",Alexandre,Rocha,"Os Paralamas Do Sucesso",Selvagem,Latin,0.99,1,0.99
+297,"2024-07-28 00:00:00",Alexandre,Rocha,"Tim Maia","O Descobridor Dos Sete Mares",Latin,0.99,1,0.99
+297,"2024-07-28 00:00:00",Alexandre,Rocha,"Tim Maia","Não Vou Ficar",Latin,0.99,1,0.99
+297,"2024-07-28 00:00:00",Alexandre,Rocha,"Tim Maia","Cristina Nº 2",Latin,0.99,1,0.99
+297,"2024-07-28 00:00:00",Alexandre,Rocha,"Tim Maia","O Que Me Importa",Latin,0.99,1,0.99
+297,"2024-07-28 00:00:00",Alexandre,Rocha,"Tim Maia","Eu Amo Você",Latin,0.99,1,0.99
+297,"2024-07-28 00:00:00",Alexandre,Rocha,"Tim Maia","Nosso Adeus",Latin,0.99,1,0.99
+349,"2025-03-18 00:00:00",Alexandre,Rocha,"Gilberto Gil","Is This Love (Live)",Latin,0.99,1,0.99
+34,"2021-05-23 00:00:00",Roberto,Almeida,"Guns N' Roses","Right Next Door to Hell",Rock,0.99,1,0.99
+155,"2022-11-14 00:00:00",Roberto,Almeida,"Led Zeppelin","In The Evening",Rock,0.99,1,0.99
+155,"2022-11-14 00:00:00",Roberto,Almeida,"Led Zeppelin","Fool In The Rain",Rock,0.99,1,0.99
+166,"2022-12-25 00:00:00",Roberto,Almeida,"Milton Nascimento","Saudade Dos Aviões Da Panair (Conversando No Bar)",Latin,0.99,1,0.99
+166,"2022-12-25 00:00:00",Roberto,Almeida,"Milton Nascimento","Caso Você Queira Saber",Latin,0.99,1,0.99
+166,"2022-12-25 00:00:00",Roberto,Almeida,Motörhead,Dance,Metal,0.99,1,0.99
+166,"2022-12-25 00:00:00",Roberto,Almeida,"Mônica Marianno","Aos Leões",World,0.99,1,0.99
+166,"2022-12-25 00:00:00",Roberto,Almeida,"Mônica Marianno",Demorou!,World,0.99,1,0.99
+166,"2022-12-25 00:00:00",Roberto,Almeida,"Mötley Crüe","Home Sweet Home",Metal,0.99,1,0.99
+166,"2022-12-25 00:00:00",Roberto,Almeida,Nirvana,Intro,Rock,0.99,1,0.99
+166,"2022-12-25 00:00:00",Roberto,Almeida,Nirvana,"Scentless Apprentice",Rock,0.99,1,0.99
+166,"2022-12-25 00:00:00",Roberto,Almeida,Nirvana,"In Bloom",Rock,0.99,1,0.99
+166,"2022-12-25 00:00:00",Roberto,Almeida,Nirvana,"On A Plain",Rock,0.99,1,0.99
+166,"2022-12-25 00:00:00",Roberto,Almeida,"O Terço",Mundaréu,Rock,0.99,1,0.99
+166,"2022-12-25 00:00:00",Roberto,Almeida,Olodum,"Nossa Gente (Avisa Là)",Latin,0.99,1,0.99
+166,"2022-12-25 00:00:00",Roberto,Almeida,Olodum,"Revolta Olodum",Latin,0.99,1,0.99
+166,"2022-12-25 00:00:00",Roberto,Almeida,"Os Paralamas Do Sucesso","Vai Valer",Latin,0.99,1,0.99
+221,"2023-08-25 00:00:00",Roberto,Almeida,"Chico Buarque","Vai Passar",Latin,0.99,1,0.99
+221,"2023-08-25 00:00:00",Roberto,Almeida,"Chico Buarque","Morena De Angola",Latin,0.99,1,0.99
+221,"2023-08-25 00:00:00",Roberto,Almeida,"Chico Buarque","Meu Caro Amigo",Latin,0.99,1,0.99
+221,"2023-08-25 00:00:00",Roberto,Almeida,"Chico Science & Nação Zumbi","Mateus Enter",Latin,0.99,1,0.99
+221,"2023-08-25 00:00:00",Roberto,Almeida,"Chico Science & Nação Zumbi","Samba Do Lado",Latin,0.99,1,0.99
+221,"2023-08-25 00:00:00",Roberto,Almeida,"Chico Science & Nação Zumbi","Um Satélite Na Cabeça",Latin,0.99,1,0.99
+221,"2023-08-25 00:00:00",Roberto,Almeida,"Chico Science & Nação Zumbi","Amor De Muito",Latin,0.99,1,0.99
+221,"2023-08-25 00:00:00",Roberto,Almeida,"Chico Science & Nação Zumbi","Banditismo Por Uma Questa",Latin,0.99,1,0.99
+221,"2023-08-25 00:00:00",Roberto,Almeida,"Chico Science & Nação Zumbi","Maracatu De Tiro Certeiro",Latin,0.99,1,0.99
+350,"2025-03-31 00:00:00",Roberto,Almeida,"Gilberto Gil","Stir It Up (Live)",Latin,0.99,1,0.99
+350,"2025-03-31 00:00:00",Roberto,Almeida,"Gilberto Gil","Refavela (Live)",Latin,0.99,1,0.99
+373,"2025-07-03 00:00:00",Roberto,Almeida,"Men At Work","Be Good Johnny",Rock,0.99,1,0.99
+373,"2025-07-03 00:00:00",Roberto,Almeida,"Men At Work","Down by the Sea",Rock,0.99,1,0.99
+373,"2025-07-03 00:00:00",Roberto,Almeida,"Men At Work","It's a Mistake",Rock,0.99,1,0.99
+373,"2025-07-03 00:00:00",Roberto,Almeida,"Men At Work","Shakes and Ladders",Rock,0.99,1,0.99
+395,"2025-10-05 00:00:00",Roberto,Almeida,"Smashing Pumpkins",Eye,"Alternative & Punk",0.99,1,0.99
+395,"2025-10-05 00:00:00",Roberto,Almeida,"Smashing Pumpkins","Stand Inside Your Love","Alternative & Punk",0.99,1,0.99
+395,"2025-10-05 00:00:00",Roberto,Almeida,Soundgarden,Flower,Rock,0.99,1,0.99
+395,"2025-10-05 00:00:00",Roberto,Almeida,Soundgarden,"Jesus Christ Pose",Rock,0.99,1,0.99
+395,"2025-10-05 00:00:00",Roberto,Almeida,Soundgarden,"The Day I Tried To Live",Rock,0.99,1,0.99
+395,"2025-10-05 00:00:00",Roberto,Almeida,Soundgarden,"Burden In My Hand",Rock,0.99,1,0.99
+35,"2021-06-05 00:00:00",Fernanda,Ramos,"Guns N' Roses","Dust N' Bones",Rock,0.99,1,0.99
+35,"2021-06-05 00:00:00",Fernanda,Ramos,"Guns N' Roses","Live and Let Die",Rock,0.99,1,0.99
+58,"2021-09-07 00:00:00",Fernanda,Ramos,Metallica,"The Memory Remains",Metal,0.99,1,0.99
+58,"2021-09-07 00:00:00",Fernanda,Ramos,Metallica,"The Unforgiven II",Metal,0.99,1,0.99
+58,"2021-09-07 00:00:00",Fernanda,Ramos,Metallica,Slither,Metal,0.99,1,0.99
+58,"2021-09-07 00:00:00",Fernanda,Ramos,Metallica,"Bad Seed",Metal,0.99,1,0.99
+80,"2021-12-10 00:00:00",Fernanda,Ramos,"Terry Bozzio, Tony Levin & Steve Stevens","Black Light Syndrome",Rock,0.99,1,0.99
+80,"2021-12-10 00:00:00",Fernanda,Ramos,"The Black Crowes","Midnight From The Inside Out",Blues,0.99,1,0.99
+80,"2021-12-10 00:00:00",Fernanda,Ramos,"The Black Crowes","Sometimes Salvation",Blues,0.99,1,0.99
+80,"2021-12-10 00:00:00",Fernanda,Ramos,"The Black Crowes","Girl From A Pawnshop",Blues,0.99,1,0.99
+80,"2021-12-10 00:00:00",Fernanda,Ramos,"The Black Crowes","Title Song",Blues,0.99,1,0.99
+80,"2021-12-10 00:00:00",Fernanda,Ramos,"The Black Crowes","Soul Singing",Blues,0.99,1,0.99
+132,"2022-07-31 00:00:00",Fernanda,Ramos,"Eric Clapton","Lay Down Sally",Blues,0.99,1,0.99
+253,"2024-01-22 00:00:00",Fernanda,Ramos,"Iron Maiden",Duelists,Metal,0.99,1,0.99
+253,"2024-01-22 00:00:00",Fernanda,Ramos,"Iron Maiden",Powerslave,Metal,0.99,1,0.99
+264,"2024-03-03 00:00:00",Fernanda,Ramos,"Legião Urbana",Aloha,Latin,0.99,1,0.99
+264,"2024-03-03 00:00:00",Fernanda,Ramos,"Legião Urbana",Será,Latin,0.99,1,0.99
+264,"2024-03-03 00:00:00",Fernanda,Ramos,"Legião Urbana","Pais E Filhos",Latin,0.99,1,0.99
+264,"2024-03-03 00:00:00",Fernanda,Ramos,"Lenny Kravitz","Rock And Roll Is Dead",Rock,0.99,1,0.99
+264,"2024-03-03 00:00:00",Fernanda,Ramos,"Lenny Kravitz","I Belong To You",Rock,0.99,1,0.99
+264,"2024-03-03 00:00:00",Fernanda,Ramos,"Lulu Santos",Casa,Latin,0.99,1,0.99
+264,"2024-03-03 00:00:00",Fernanda,Ramos,"Lulu Santos","A Cura",Latin,0.99,1,0.99
+264,"2024-03-03 00:00:00",Fernanda,Ramos,"Lulu Santos",Sereia,Latin,0.99,1,0.99
+264,"2024-03-03 00:00:00",Fernanda,Ramos,Marillion,"Heart Of Lothian: Wide Boy / Curtain Call",Rock,0.99,1,0.99
+264,"2024-03-03 00:00:00",Fernanda,Ramos,"Marisa Monte","Cérebro Eletrônico",Latin,0.99,1,0.99
+264,"2024-03-03 00:00:00",Fernanda,Ramos,"Marisa Monte","A Menina Dança",Latin,0.99,1,0.99
+264,"2024-03-03 00:00:00",Fernanda,Ramos,"Marvin Gaye","You've Been A Long Time Coming",R&B/Soul,0.99,1,0.99
+264,"2024-03-03 00:00:00",Fernanda,Ramos,"Marvin Gaye","Abraham, Martin And John",R&B/Soul,0.99,1,0.99
+264,"2024-03-03 00:00:00",Fernanda,Ramos,"Men At Work","Everything I Need",Rock,0.99,1,0.99
+319,"2024-11-01 00:00:00",Fernanda,Ramos,"Amy Winehouse","Help Yourself",Pop,0.99,1,0.99
+319,"2024-11-01 00:00:00",Fernanda,Ramos,"Academy of St. Martin in the Fields, Sir Neville Marriner & Thurston Dart","Suite No. 3 in D, BWV 1068: III. Gavotte I & II",Classical,0.99,1,0.99
+319,"2024-11-01 00:00:00",Fernanda,Ramos,"Equale Brass Ensemble, John Eliot Gardiner & Munich Monteverdi Orchestra and Choir","Music for the Funeral of Queen Mary: VI. "Thou Knowest, Lord, the Secrets of Our Hearts"",Classical,0.99,1,0.99
+319,"2024-11-01 00:00:00",Fernanda,Ramos,"Göteborgs Symfoniker & Neeme Järvi","Symphony No. 2, Op. 16 -  "The Four Temperaments": II. Allegro Comodo e Flemmatico",Classical,0.99,1,0.99
+319,"2024-11-01 00:00:00",Fernanda,Ramos,"Emerson String Quartet","String Quartet No. 12 in C Minor, D. 703 "Quartettsatz": II. Andante - Allegro assai",Classical,0.99,1,0.99
+319,"2024-11-01 00:00:00",Fernanda,Ramos,Accept,"Fast As a Shark",Rock,0.99,1,0.99
+319,"2024-11-01 00:00:00",Fernanda,Ramos,AC/DC,Snowballed,Rock,0.99,1,0.99
+319,"2024-11-01 00:00:00",Fernanda,Ramos,AC/DC,"Go Down",Rock,0.99,1,0.99
+319,"2024-11-01 00:00:00",Fernanda,Ramos,AC/DC,"Hell Ain't A Bad Place To Be",Rock,0.99,1,0.99
+4,"2021-01-06 00:00:00",Mark,Philips,"Alanis Morissette","Right Through You",Rock,0.99,1,0.99
+4,"2021-01-06 00:00:00",Mark,Philips,"Alanis Morissette","Not The Doctor",Rock,0.99,1,0.99
+4,"2021-01-06 00:00:00",Mark,Philips,"Alice In Chains","Bleed The Freak",Rock,0.99,1,0.99
+4,"2021-01-06 00:00:00",Mark,Philips,"Alice In Chains",Confusion,Rock,0.99,1,0.99
+4,"2021-01-06 00:00:00",Mark,Philips,"Antônio Carlos Jobim","Por Causa De Você",Jazz,0.99,1,0.99
+4,"2021-01-06 00:00:00",Mark,Philips,"Antônio Carlos Jobim",Angela,Jazz,0.99,1,0.99
+4,"2021-01-06 00:00:00",Mark,Philips,Apocalyptica,"Master Of Puppets",Metal,0.99,1,0.99
+4,"2021-01-06 00:00:00",Mark,Philips,Apocalyptica,"Welcome Home (Sanitarium)",Metal,0.99,1,0.99
+4,"2021-01-06 00:00:00",Mark,Philips,Audioslave,"Set It Off",Rock,0.99,1,0.99
+133,"2022-08-13 00:00:00",Mark,Philips,"Eric Clapton","Knockin On Heavens Door",Blues,0.99,1,0.99
+133,"2022-08-13 00:00:00",Mark,Philips,"Eric Clapton","Wonderful Tonight",Blues,0.99,1,0.99
+156,"2022-11-15 00:00:00",Mark,Philips,"Led Zeppelin",Carouselambra,Rock,0.99,1,0.99
+156,"2022-11-15 00:00:00",Mark,Philips,"Led Zeppelin","I'm Gonna Crawl",Rock,0.99,1,0.99
+156,"2022-11-15 00:00:00",Mark,Philips,"Led Zeppelin","Rock & Roll",Rock,0.99,1,0.99
+156,"2022-11-15 00:00:00",Mark,Philips,"Led Zeppelin","Stairway To Heaven",Rock,0.99,1,0.99
+178,"2023-02-17 00:00:00",Mark,Philips,"R.E.M. Feat. Kate Pearson",Endgame,"Alternative & Punk",0.99,1,0.99
+178,"2023-02-17 00:00:00",Mark,Philips,"R.E.M. Feat. Kate Pearson","Country Feedback","Alternative & Punk",0.99,1,0.99
+178,"2023-02-17 00:00:00",Mark,Philips,R.E.M.,"Talk About The Passion","Alternative & Punk",0.99,1,0.99
+178,"2023-02-17 00:00:00",Mark,Philips,R.E.M.,"Green Grow The Rushes","Alternative & Punk",0.99,1,0.99
+178,"2023-02-17 00:00:00",Mark,Philips,R.E.M.,"I Believe","Alternative & Punk",0.99,1,0.99
+178,"2023-02-17 00:00:00",Mark,Philips,R.E.M.,"It's The End Of The World As We Know It (And I Feel Fine)","Alternative & Punk",0.99,1,0.99
+230,"2023-10-08 00:00:00",Mark,Philips,"Toquinho & Vinícius","Onde Anda Você","Bossa Nova",0.99,1,0.99
+351,"2025-03-31 00:00:00",Mark,Philips,"Gilberto Gil","Quanta (Live)",Latin,0.99,1,0.99
+351,"2025-03-31 00:00:00",Mark,Philips,"Gilberto Gil","Pela Internet (Live)",Latin,0.99,1,0.99
+362,"2025-05-11 00:00:00",Mark,Philips,"James Brown","Say It Loud, I'm Black And I'm Proud Pt.1",R&B/Soul,0.99,1,0.99
+362,"2025-05-11 00:00:00",Mark,Philips,"James Brown","I'm Real",R&B/Soul,0.99,1,0.99
+362,"2025-05-11 00:00:00",Mark,Philips,Jamiroquai,"Whatever It Is, I Just Can't Stop",Rock,0.99,1,0.99
+362,"2025-05-11 00:00:00",Mark,Philips,Jamiroquai,"Destitute Illusions",R&B/Soul,0.99,1,0.99
+362,"2025-05-11 00:00:00",Mark,Philips,Jamiroquai,"Light Years",Electronica/Dance,0.99,1,0.99
+362,"2025-05-11 00:00:00",Mark,Philips,JET,"Are You Gonna Be My Girl","Alternative & Punk",0.99,1,0.99
+362,"2025-05-11 00:00:00",Mark,Philips,JET,"Take It Or Leave It","Alternative & Punk",0.99,1,0.99
+362,"2025-05-11 00:00:00",Mark,Philips,"Jimi Hendrix","May This Be Love",Rock,0.99,1,0.99
+362,"2025-05-11 00:00:00",Mark,Philips,"Jimi Hendrix","The Wind Cries Mary",Rock,0.99,1,0.99
+362,"2025-05-11 00:00:00",Mark,Philips,"Joe Satriani","Lords of Karma",Rock,0.99,1,0.99
+362,"2025-05-11 00:00:00",Mark,Philips,"Jorge Ben","Os Alquimistas Estão Chegando",Latin,0.99,1,0.99
+362,"2025-05-11 00:00:00",Mark,Philips,"Jota Quest","As Dores do Mundo",Latin,0.99,1,0.99
+362,"2025-05-11 00:00:00",Mark,Philips,"Jota Quest","Sem Sentido",Latin,0.99,1,0.99
+362,"2025-05-11 00:00:00",Mark,Philips,"João Suplicy",Equinocio,World,0.99,1,0.99
+36,"2021-06-05 00:00:00",Jennifer,Peterson,"Guns N' Roses","Perfect Crime",Rock,0.99,1,0.99
+36,"2021-06-05 00:00:00",Jennifer,Peterson,"Guns N' Roses","Bad Obsession",Rock,0.99,1,0.99
+47,"2021-07-16 00:00:00",Jennifer,Peterson,"Jimi Hendrix","Stone Free",Rock,0.99,1,0.99
+47,"2021-07-16 00:00:00",Jennifer,Peterson,"Joe Satriani","Satch Boogie",Rock,0.99,1,0.99
+47,"2021-07-16 00:00:00",Jennifer,Peterson,"Jorge Ben","Salve Simpatia",Latin,0.99,1,0.99
+47,"2021-07-16 00:00:00",Jennifer,Peterson,"Jorge Ben","Filho Maravilha",Latin,0.99,1,0.99
+47,"2021-07-16 00:00:00",Jennifer,Peterson,"Jota Quest","Dance Enquanto é Tempo",Latin,0.99,1,0.99
+47,"2021-07-16 00:00:00",Jennifer,Peterson,"João Suplicy","Voce Inteira",World,0.99,1,0.99
+47,"2021-07-16 00:00:00",Jennifer,Peterson,"João Suplicy","Enquanto O Dia Não Vem",World,0.99,1,0.99
+47,"2021-07-16 00:00:00",Jennifer,Peterson,"Judas Priest","Turbo Lover",Metal,0.99,1,0.99
+47,"2021-07-16 00:00:00",Jennifer,Peterson,Kiss,"Plaster Caster",Rock,0.99,1,0.99
+47,"2021-07-16 00:00:00",Jennifer,Peterson,Kiss,"Every Time I Look At You",Rock,0.99,1,0.99
+47,"2021-07-16 00:00:00",Jennifer,Peterson,"Led Zeppelin","Dazed And Confused",Rock,0.99,1,0.99
+47,"2021-07-16 00:00:00",Jennifer,Peterson,"Led Zeppelin","Walter's Walk",Rock,0.99,1,0.99
+47,"2021-07-16 00:00:00",Jennifer,Peterson,"Led Zeppelin","Dancing Days",Rock,0.99,1,0.99
+47,"2021-07-16 00:00:00",Jennifer,Peterson,"Led Zeppelin","All My Love",Rock,0.99,1,0.99
+102,"2022-03-16 00:00:00",Jennifer,Peterson,Scorpions,"The Zoo",Rock,0.99,1,0.99
+102,"2022-03-16 00:00:00",Jennifer,Peterson,Scorpions,"I Can't Explain",Rock,0.99,1,0.99
+102,"2022-03-16 00:00:00",Jennifer,Peterson,"House Of Pain","Put Your Head Out","Hip Hop/Rap",0.99,1,0.99
+102,"2022-03-16 00:00:00",Jennifer,Peterson,"House Of Pain","Danny Boy, Danny Boy","Hip Hop/Rap",0.99,1,0.99
+102,"2022-03-16 00:00:00",Jennifer,Peterson,"House Of Pain","One For The Road","Hip Hop/Rap",0.99,1,0.99
+102,"2022-03-16 00:00:00",Jennifer,Peterson,"O Rappa","Chapa o Coco",Electronica/Dance,0.99,1,0.99
+102,"2022-03-16 00:00:00",Jennifer,Peterson,"O Rappa","Todo o Carnaval tem seu Fim",Electronica/Dance,0.99,1,0.99
+102,"2022-03-16 00:00:00",Jennifer,Peterson,"O Rappa","Funk de Bamba",Electronica/Dance,0.99,1,0.99
+102,"2022-03-16 00:00:00",Jennifer,Peterson,Lost,"The Beginning of the End",Drama,1.99,1,1.99
+231,"2023-10-21 00:00:00",Jennifer,Peterson,"Toquinho & Vinícius","Samba Da Volta","Bossa Nova",0.99,1,0.99
+231,"2023-10-21 00:00:00",Jennifer,Peterson,"Toquinho & Vinícius","Canto De Ossanha","Bossa Nova",0.99,1,0.99
+254,"2024-01-23 00:00:00",Jennifer,Peterson,"Iron Maiden",Intro,Metal,0.99,1,0.99
+254,"2024-01-23 00:00:00",Jennifer,Peterson,"Iron Maiden","Ghost Of The Navigator",Metal,0.99,1,0.99
+254,"2024-01-23 00:00:00",Jennifer,Peterson,"Iron Maiden",Wrathchild,Metal,0.99,1,0.99
+254,"2024-01-23 00:00:00",Jennifer,Peterson,"Iron Maiden","Blood Brothers",Metal,0.99,1,0.99
+276,"2024-04-26 00:00:00",Jennifer,Peterson,"Os Paralamas Do Sucesso","Navegar Impreciso",Latin,0.99,1,0.99
+276,"2024-04-26 00:00:00",Jennifer,Peterson,"Os Paralamas Do Sucesso","Life During Wartime",Latin,0.99,1,0.99
+276,"2024-04-26 00:00:00",Jennifer,Peterson,"Os Paralamas Do Sucesso","Tendo A Lua",Latin,0.99,1,0.99
+276,"2024-04-26 00:00:00",Jennifer,Peterson,"Os Paralamas Do Sucesso","Busca Vida",Latin,0.99,1,0.99
+276,"2024-04-26 00:00:00",Jennifer,Peterson,"Os Paralamas Do Sucesso","Ela Disse Adeus",Latin,0.99,1,0.99
+276,"2024-04-26 00:00:00",Jennifer,Peterson,"Os Paralamas Do Sucesso",Óculos,Latin,0.99,1,0.99
+328,"2024-12-15 00:00:00",Jennifer,Peterson,"Antônio Carlos Jobim","Tarde Em Itapoã",Latin,0.99,1,0.99
+13,"2021-02-19 00:00:00",Frank,Harris,"Spyro Gyra",Valentino's,Jazz,0.99,1,0.99
+134,"2022-08-13 00:00:00",Frank,Harris,"Eric Clapton",Promises,Blues,0.99,1,0.99
+134,"2022-08-13 00:00:00",Frank,Harris,"Eric Clapton",Signe,Blues,0.99,1,0.99
+145,"2022-09-23 00:00:00",Frank,Harris,"Iron Maiden","Ghost Of The Navigator",Rock,0.99,1,0.99
+145,"2022-09-23 00:00:00",Frank,Harris,"Iron Maiden","Wildest Dreams","Heavy Metal",0.99,1,0.99
+145,"2022-09-23 00:00:00",Frank,Harris,"Iron Maiden","Age Of Innocence","Heavy Metal",0.99,1,0.99
+145,"2022-09-23 00:00:00",Frank,Harris,"Iron Maiden","Chains Of Misery",Rock,0.99,1,0.99
+145,"2022-09-23 00:00:00",Frank,Harris,"Iron Maiden","05 - Phantom of the Opera",Blues,0.99,1,0.99
+145,"2022-09-23 00:00:00",Frank,Harris,"Iron Maiden","Genghis Khan","Heavy Metal",0.99,1,0.99
+145,"2022-09-23 00:00:00",Frank,Harris,"Iron Maiden","The Trooper",Metal,0.99,1,0.99
+145,"2022-09-23 00:00:00",Frank,Harris,"Iron Maiden","Running Free",Metal,0.99,1,0.99
+145,"2022-09-23 00:00:00",Frank,Harris,"Iron Maiden","From Here To Eternity",Rock,0.99,1,0.99
+145,"2022-09-23 00:00:00",Frank,Harris,"Iron Maiden","Heaven Can Wait",Rock,0.99,1,0.99
+145,"2022-09-23 00:00:00",Frank,Harris,"Iron Maiden","Holy Smoke",Metal,0.99,1,0.99
+145,"2022-09-23 00:00:00",Frank,Harris,"Iron Maiden","Where Eagles Dare",Metal,0.99,1,0.99
+145,"2022-09-23 00:00:00",Frank,Harris,"Iron Maiden","Aces High",Metal,0.99,1,0.99
+145,"2022-09-23 00:00:00",Frank,Harris,"Iron Maiden","The Wicker Man",Metal,0.99,1,0.99
+200,"2023-05-24 00:00:00",Frank,Harris,U2,"The First Time",Rock,0.99,1,0.99
+200,"2023-05-24 00:00:00",Frank,Harris,UB40,"Homely Girl",Reggae,0.99,1,0.99
+200,"2023-05-24 00:00:00",Frank,Harris,UB40,"Bring Me Your Cup",Reggae,0.99,1,0.99
+200,"2023-05-24 00:00:00",Frank,Harris,"Van Halen","Hang 'Em High",Rock,0.99,1,0.99
+200,"2023-05-24 00:00:00",Frank,Harris,"Van Halen","Little Guitars (Intro)",Rock,0.99,1,0.99
+200,"2023-05-24 00:00:00",Frank,Harris,"Van Halen","Ain't Talkin' 'bout Love",Rock,0.99,1,0.99
+200,"2023-05-24 00:00:00",Frank,Harris,"Van Halen",Panama,Rock,0.99,1,0.99
+200,"2023-05-24 00:00:00",Frank,Harris,"Van Halen","Can't Stop Loving You",Rock,0.99,1,0.99
+200,"2023-05-24 00:00:00",Frank,Harris,"Van Halen","You Really Got Me",Rock,0.99,1,0.99
+329,"2024-12-28 00:00:00",Frank,Harris,"Antônio Carlos Jobim","Tanto Tempo",Latin,0.99,1,0.99
+329,"2024-12-28 00:00:00",Frank,Harris,"Antônio Carlos Jobim","Eu Vim Da Bahia - Live",Latin,0.99,1,0.99
+352,"2025-04-01 00:00:00",Frank,Harris,"Gilberto Gil","Opachorô (Live)",Latin,0.99,1,0.99
+352,"2025-04-01 00:00:00",Frank,Harris,"Gilberto Gil","A Novidade (Live)",Latin,0.99,1,0.99
+352,"2025-04-01 00:00:00",Frank,Harris,"Gilberto Gil","De Ouro E Marfim (Live)",Latin,0.99,1,0.99
+352,"2025-04-01 00:00:00",Frank,Harris,"Gilberto Gil","Lamento De Carnaval",Jazz,0.99,1,0.99
+374,"2025-07-04 00:00:00",Frank,Harris,Metallica,"Holier Than Thou",Metal,0.99,1,0.99
+374,"2025-07-04 00:00:00",Frank,Harris,Metallica,"Through The Never",Metal,0.99,1,0.99
+374,"2025-07-04 00:00:00",Frank,Harris,Metallica,"My Friend Of Misery",Metal,0.99,1,0.99
+374,"2025-07-04 00:00:00",Frank,Harris,Metallica,"The Wait",Metal,0.99,1,0.99
+374,"2025-07-04 00:00:00",Frank,Harris,Metallica,Blitzkrieg,Metal,0.99,1,0.99
+374,"2025-07-04 00:00:00",Frank,Harris,Metallica,"So What",Metal,0.99,1,0.99
+14,"2021-03-04 00:00:00",Jack,Smith,"Spyro Gyra",Believe,Jazz,0.99,1,0.99
+14,"2021-03-04 00:00:00",Jack,Smith,"Spyro Gyra","As We Sleep",Jazz,0.99,1,0.99
+37,"2021-06-06 00:00:00",Jack,Smith,"Guns N' Roses","Double Talkin' Jive",Rock,0.99,1,0.99
+37,"2021-06-06 00:00:00",Jack,Smith,"Guns N' Roses","The Garden",Rock,0.99,1,0.99
+37,"2021-06-06 00:00:00",Jack,Smith,"Guns N' Roses","Don't Damn Me",Rock,0.99,1,0.99
+37,"2021-06-06 00:00:00",Jack,Smith,"Guns N' Roses","Dead Horse",Rock,0.99,1,0.99
+59,"2021-09-08 00:00:00",Jack,Smith,Metallica,Attitude,Metal,0.99,1,0.99
+59,"2021-09-08 00:00:00",Jack,Smith,Metallica,"For Whom The Bell Tolls",Metal,0.99,1,0.99
+59,"2021-09-08 00:00:00",Jack,Smith,Metallica,"Creeping Death",Metal,0.99,1,0.99
+59,"2021-09-08 00:00:00",Jack,Smith,Metallica,"Some Kind Of Monster",Metal,0.99,1,0.99
+59,"2021-09-08 00:00:00",Jack,Smith,Metallica,"Shoot Me Again",Metal,0.99,1,0.99
+59,"2021-09-08 00:00:00",Jack,Smith,Metallica,"All Within My Hands",Metal,0.99,1,0.99
+111,"2022-04-29 00:00:00",Jack,Smith,"Caetano Veloso",Meditação,Latin,0.99,1,0.99
+232,"2023-10-21 00:00:00",Jack,Smith,"Toquinho & Vinícius",Formosa,"Bossa Nova",0.99,1,0.99
+232,"2023-10-21 00:00:00",Jack,Smith,"Toquinho & Vinícius","Minha Namorada","Bossa Nova",0.99,1,0.99
+243,"2023-12-01 00:00:00",Jack,Smith,Falamansa,"Zeca Violeiro",Latin,0.99,1,0.99
+243,"2023-12-01 00:00:00",Jack,Smith,"Foo Fighters","No Way Back",Rock,0.99,1,0.99
+243,"2023-12-01 00:00:00",Jack,Smith,"Foo Fighters",Still,Rock,0.99,1,0.99
+243,"2023-12-01 00:00:00",Jack,Smith,"Foo Fighters",Razor,Rock,0.99,1,0.99
+243,"2023-12-01 00:00:00",Jack,Smith,"Foo Fighters",Overdrive,"Alternative & Punk",0.99,1,0.99
+243,"2023-12-01 00:00:00",Jack,Smith,"Foo Fighters","My Hero",Rock,0.99,1,0.99
+243,"2023-12-01 00:00:00",Jack,Smith,"Frank Sinatra","New York, New York","Easy Listening",0.99,1,0.99
+243,"2023-12-01 00:00:00",Jack,Smith,"Frank Sinatra","My Kind Of Town","Easy Listening",0.99,1,0.99
+243,"2023-12-01 00:00:00",Jack,Smith,"Frank Sinatra","Bad, Bad Leroy Brown","Easy Listening",0.99,1,0.99
+243,"2023-12-01 00:00:00",Jack,Smith,"Funk Como Le Gusta",Zambação,Latin,0.99,1,0.99
+243,"2023-12-01 00:00:00",Jack,Smith,"Funk Como Le Gusta","Divirta-Se (Saindo Da Sua)",Latin,0.99,1,0.99
+243,"2023-12-01 00:00:00",Jack,Smith,"Gilberto Gil","Assum Preto",Soundtrack,0.99,1,0.99
+243,"2023-12-01 00:00:00",Jack,Smith,"Gilberto Gil","Is This Love (Live)",Latin,0.99,1,0.99
+243,"2023-12-01 00:00:00",Jack,Smith,"Gilberto Gil","Copacabana (Live)",Latin,0.99,1,0.99
+298,"2024-07-31 00:00:00",Jack,Smith,"Tim Maia",Formigueiro,Latin,0.99,1,0.99
+298,"2024-07-31 00:00:00",Jack,Smith,Titãs,"O Pulso","Alternative & Punk",0.99,1,0.99
+298,"2024-07-31 00:00:00",Jack,Smith,Titãs,"A Melhor Forma","Alternative & Punk",0.99,1,0.99
+298,"2024-07-31 00:00:00",Jack,Smith,Titãs,"Homem Primata","Alternative & Punk",0.99,1,0.99
+298,"2024-07-31 00:00:00",Jack,Smith,Titãs,"Lugar Nenhum","Alternative & Punk",0.99,1,0.99
+298,"2024-07-31 00:00:00",Jack,Smith,Titãs,"Caras Como Eu","Alternative & Punk",0.99,1,0.99
+298,"2024-07-31 00:00:00",Jack,Smith,Titãs,"Toda Cor","Alternative & Punk",0.99,1,0.99
+298,"2024-07-31 00:00:00",Jack,Smith,"Battlestar Galactica","Exodus, Pt. 2","TV Shows",1.99,1,1.99
+298,"2024-07-31 00:00:00",Jack,Smith,"Battlestar Galactica","The Passage","Science Fiction",1.99,1,1.99
+112,"2022-05-12 00:00:00",Michelle,Brooks,"Caetano Veloso",Terra,Latin,0.99,1,0.99
+112,"2022-05-12 00:00:00",Michelle,Brooks,"Caetano Veloso","Eclipse Oculto",Latin,0.99,1,0.99
+135,"2022-08-14 00:00:00",Michelle,Brooks,"Eric Clapton","Hey Hey",Blues,0.99,1,0.99
+135,"2022-08-14 00:00:00",Michelle,Brooks,"Eric Clapton","Lonely Stranger",Blues,0.99,1,0.99
+135,"2022-08-14 00:00:00",Michelle,Brooks,"Eric Clapton",Layla,Blues,0.99,1,0.99
+135,"2022-08-14 00:00:00",Michelle,Brooks,"Eric Clapton","Walkin' Blues",Blues,0.99,1,0.99
+157,"2022-11-16 00:00:00",Michelle,Brooks,"Led Zeppelin","When The Levee Breaks",Rock,0.99,1,0.99
+157,"2022-11-16 00:00:00",Michelle,Brooks,"Led Zeppelin","Dazed and Confused",Rock,0.99,1,0.99
+157,"2022-11-16 00:00:00",Michelle,Brooks,"Led Zeppelin","I Can't Quit You Baby",Rock,0.99,1,0.99
+157,"2022-11-16 00:00:00",Michelle,Brooks,"Led Zeppelin","The Lemon Song",Rock,0.99,1,0.99
+157,"2022-11-16 00:00:00",Michelle,Brooks,"Led Zeppelin","Ramble On",Rock,0.99,1,0.99
+157,"2022-11-16 00:00:00",Michelle,Brooks,"Led Zeppelin",Friends,Rock,0.99,1,0.99
+209,"2023-07-07 00:00:00",Michelle,Brooks,"Amy Winehouse",Rehab,R&B/Soul,0.99,1,0.99
+330,"2024-12-28 00:00:00",Michelle,Brooks,"Antônio Carlos Jobim","Linha Do Horizonte",Latin,0.99,1,0.99
+330,"2024-12-28 00:00:00",Michelle,Brooks,"Antônio Carlos Jobim","Abrir A Porta",Latin,0.99,1,0.99
+341,"2025-02-07 00:00:00",Michelle,Brooks,"Cássia Eller","Palavras Ao Vento",Latin,0.99,1,0.99
+341,"2025-02-07 00:00:00",Michelle,Brooks,"Cássia Eller","Metrô. Linha 743",Latin,0.99,1,0.99
+341,"2025-02-07 00:00:00",Michelle,Brooks,"Cássia Eller","Mis Penas Lloraba Yo (Ao Vivo) Soy Gitano (Tangos)",Latin,0.99,1,0.99
+341,"2025-02-07 00:00:00",Michelle,Brooks,"Deep Purple","You Keep On Moving",Rock,0.99,1,0.99
+341,"2025-02-07 00:00:00",Michelle,Brooks,"Deep Purple","No No No",Rock,0.99,1,0.99
+341,"2025-02-07 00:00:00",Michelle,Brooks,"Deep Purple","Nobody's Home",Rock,0.99,1,0.99
+341,"2025-02-07 00:00:00",Michelle,Brooks,"Deep Purple","Maybe I'm A Leo",Rock,0.99,1,0.99
+341,"2025-02-07 00:00:00",Michelle,Brooks,"Deep Purple","Sometimes I Feel Like Screaming",Rock,0.99,1,0.99
+341,"2025-02-07 00:00:00",Michelle,Brooks,"Deep Purple","King Of Dreams",Rock,0.99,1,0.99
+341,"2025-02-07 00:00:00",Michelle,Brooks,"Deep Purple",Stormbringer,Rock,0.99,1,0.99
+341,"2025-02-07 00:00:00",Michelle,Brooks,"Deep Purple","The Battle Rages On",Rock,0.99,1,0.99
+341,"2025-02-07 00:00:00",Michelle,Brooks,"Deep Purple","One Man's Meat",Rock,0.99,1,0.99
+341,"2025-02-07 00:00:00",Michelle,Brooks,"Def Leppard","When Love & Hate Collide",Rock,0.99,1,0.99
+341,"2025-02-07 00:00:00",Michelle,Brooks,"Dennis Chambers",Otay,Jazz,0.99,1,0.99
+396,"2025-10-08 00:00:00",Michelle,Brooks,"Spyro Gyra",Rasul,Jazz,0.99,1,0.99
+396,"2025-10-08 00:00:00",Michelle,Brooks,"Spyro Gyra","End Of Romanticism",Jazz,0.99,1,0.99
+396,"2025-10-08 00:00:00",Michelle,Brooks,"Stevie Ray Vaughan & Double Trouble","Travis Walk",Blues,0.99,1,0.99
+396,"2025-10-08 00:00:00",Michelle,Brooks,"Stone Temple Pilots","Sex Type Thing",Rock,0.99,1,0.99
+396,"2025-10-08 00:00:00",Michelle,Brooks,"Stone Temple Pilots","Piece Of Pie",Rock,0.99,1,0.99
+396,"2025-10-08 00:00:00",Michelle,Brooks,"System Of A Down",B.Y.O.B.,Metal,0.99,1,0.99
+396,"2025-10-08 00:00:00",Michelle,Brooks,"System Of A Down",Question!,Metal,0.99,1,0.99
+396,"2025-10-08 00:00:00",Michelle,Brooks,"Terry Bozzio, Tony Levin & Steve Stevens",Duende,Rock,0.99,1,0.99
+396,"2025-10-08 00:00:00",Michelle,Brooks,"The Black Crowes","Sting Me",Blues,0.99,1,0.99
+15,"2021-03-04 00:00:00",Tim,Goyer,"Spyro Gyra","J Squared",Jazz,0.99,1,0.99
+15,"2021-03-04 00:00:00",Tim,Goyer,"Green Day",Maria,"Alternative & Punk",0.99,1,0.99
+26,"2021-04-14 00:00:00",Tim,Goyer,"Deep Purple","Hey Cisco",Rock,0.99,1,0.99
+26,"2021-04-14 00:00:00",Tim,Goyer,"Deep Purple",Fortuneteller,Rock,0.99,1,0.99
+26,"2021-04-14 00:00:00",Tim,Goyer,"Deep Purple","High Ball Shooter",Rock,0.99,1,0.99
+26,"2021-04-14 00:00:00",Tim,Goyer,"Deep Purple","A Twist In The Tail",Rock,0.99,1,0.99
+26,"2021-04-14 00:00:00",Tim,Goyer,"Def Leppard",Animal,Rock,0.99,1,0.99
+26,"2021-04-14 00:00:00",Tim,Goyer,"Def Leppard",Hysteria,Rock,0.99,1,0.99
+26,"2021-04-14 00:00:00",Tim,Goyer,"Dennis Chambers","Baltimore, DC",Jazz,0.99,1,0.99
+26,"2021-04-14 00:00:00",Tim,Goyer,Djavan,Esquinas,Latin,0.99,1,0.99
+26,"2021-04-14 00:00:00",Tim,Goyer,Djavan,Açai,Latin,0.99,1,0.99
+26,"2021-04-14 00:00:00",Tim,Goyer,Djavan,"Um Amor Puro",Latin,0.99,1,0.99
+26,"2021-04-14 00:00:00",Tim,Goyer,"Elis Regina",Fascinação,Latin,0.99,1,0.99
+26,"2021-04-14 00:00:00",Tim,Goyer,"Eric Clapton","Sunshine Of Your Love",Blues,0.99,1,0.99
+26,"2021-04-14 00:00:00",Tim,Goyer,"Eric Clapton","Lay Down Sally",Blues,0.99,1,0.99
+26,"2021-04-14 00:00:00",Tim,Goyer,"Eric Clapton","Tears In Heaven",Blues,0.99,1,0.99
+81,"2021-12-13 00:00:00",Tim,Goyer,"The Clash","Clash City Rockers","Alternative & Punk",0.99,1,0.99
+81,"2021-12-13 00:00:00",Tim,Goyer,"The Clash","Train In Vain","Alternative & Punk",0.99,1,0.99
+81,"2021-12-13 00:00:00",Tim,Goyer,"The Clash","Know Your Rights","Alternative & Punk",0.99,1,0.99
+81,"2021-12-13 00:00:00",Tim,Goyer,"The Cult","Take The Power",Rock,0.99,1,0.99
+81,"2021-12-13 00:00:00",Tim,Goyer,"The Cult","Speed Of Light",Rock,0.99,1,0.99
+81,"2021-12-13 00:00:00",Tim,Goyer,"The Cult","Spirit Walker",Rock,0.99,1,0.99
+81,"2021-12-13 00:00:00",Tim,Goyer,"The Cult","Edie (Ciao Baby)",Rock,0.99,1,0.99
+81,"2021-12-13 00:00:00",Tim,Goyer,"The Cult","Sun King",Rock,0.99,1,0.99
+81,"2021-12-13 00:00:00",Tim,Goyer,"The Doors","Twentienth Century Fox",Rock,0.99,1,0.99
+210,"2023-07-20 00:00:00",Tim,Goyer,"Amy Winehouse","You Know I'm No Good",R&B/Soul,0.99,1,0.99
+210,"2023-07-20 00:00:00",Tim,Goyer,"Amy Winehouse","Me & Mr. Jones",R&B/Soul,0.99,1,0.99
+233,"2023-10-22 00:00:00",Tim,Goyer,"Toquinho & Vinícius",Berimbau,"Bossa Nova",0.99,1,0.99
+233,"2023-10-22 00:00:00",Tim,Goyer,"Toquinho & Vinícius","Pot-Pourri N.º 2","Bossa Nova",0.99,1,0.99
+233,"2023-10-22 00:00:00",Tim,Goyer,"Toquinho & Vinícius","Carta Ao Tom 74","Bossa Nova",0.99,1,0.99
+233,"2023-10-22 00:00:00",Tim,Goyer,"Various Artists","Pela Luz dos Olhos Teus (Miúcha e Tom Jobim)",Latin,0.99,1,0.99
+255,"2024-01-24 00:00:00",Tim,Goyer,"Iron Maiden","Dream Of Mirrors",Rock,0.99,1,0.99
+255,"2024-01-24 00:00:00",Tim,Goyer,"Iron Maiden","Iron Maiden",Rock,0.99,1,0.99
+255,"2024-01-24 00:00:00",Tim,Goyer,"Iron Maiden","Run To The Hills",Rock,0.99,1,0.99
+255,"2024-01-24 00:00:00",Tim,Goyer,"Iron Maiden","The Evil That Men Do",Metal,0.99,1,0.99
+255,"2024-01-24 00:00:00",Tim,Goyer,"Iron Maiden","Only the Good Die Young",Metal,0.99,1,0.99
+255,"2024-01-24 00:00:00",Tim,Goyer,"Iron Maiden","Heaven Can Wait",Metal,0.99,1,0.99
+307,"2024-09-13 00:00:00",Tim,Goyer,"The Office","Gay Witch Hunt","TV Shows",1.99,1,1.99
+113,"2022-05-12 00:00:00",Dan,Miller,"Caetano Veloso","Bem Devagar",Latin,0.99,1,0.99
+113,"2022-05-12 00:00:00",Dan,Miller,"Caetano Veloso",Saudosismo,Latin,0.99,1,0.99
+124,"2022-06-22 00:00:00",Dan,Miller,"Os Mutantes","Posso Perder Minha Mulher, Minha Mãe, Desde Que Eu Tenha O Rock And Roll","Alternative & Punk",0.99,1,0.99
+124,"2022-06-22 00:00:00",Dan,Miller,"Deep Purple","You Fool No One",Rock,0.99,1,0.99
+124,"2022-06-22 00:00:00",Dan,Miller,"Various Artists",Viradouro,Latin,0.99,1,0.99
+124,"2022-06-22 00:00:00",Dan,Miller,"Various Artists",Tradição,Latin,0.99,1,0.99
+124,"2022-06-22 00:00:00",Dan,Miller,Santana,"Maria Maria",Rock,0.99,1,0.99
+124,"2022-06-22 00:00:00",Dan,Miller,"Ed Motta","Entre E Ouça",Latin,0.99,1,0.99
+124,"2022-06-22 00:00:00",Dan,Miller,"Ed Motta","Agora Que O Dia Acordou",Latin,0.99,1,0.99
+124,"2022-06-22 00:00:00",Dan,Miller,"Miles Davis","Bye Bye Blackbird",Jazz,0.99,1,0.99
+124,"2022-06-22 00:00:00",Dan,Miller,"Miles Davis",Nefertiti,Jazz,0.99,1,0.99
+124,"2022-06-22 00:00:00",Dan,Miller,"Deep Purple","Going Down / Highway Star",Rock,0.99,1,0.99
+124,"2022-06-22 00:00:00",Dan,Miller,"Gene Krupa","Boogie Blues",Jazz,0.99,1,0.99
+124,"2022-06-22 00:00:00",Dan,Miller,"Gene Krupa","Don't Take Your Love From Me",Jazz,0.99,1,0.99
+124,"2022-06-22 00:00:00",Dan,Miller,"Toquinho & Vinícius","Onde Anda Você","Bossa Nova",0.99,1,0.99
+124,"2022-06-22 00:00:00",Dan,Miller,"Toquinho & Vinícius",Deixa,"Bossa Nova",0.99,1,0.99
+179,"2023-02-20 00:00:00",Dan,Miller,Raimundos,"Puteiro Em João Pessoa","Alternative & Punk",0.99,1,0.99
+179,"2023-02-20 00:00:00",Dan,Miller,"Raul Seixas","O Dia Em Que A Terra Parou",Rock,0.99,1,0.99
+179,"2023-02-20 00:00:00",Dan,Miller,"Raul Seixas","Todo Mundo Explica",Rock,0.99,1,0.99
+179,"2023-02-20 00:00:00",Dan,Miller,"Raul Seixas","Rock Das Aranhas (Ao Vivo) (Live)",Rock,0.99,1,0.99
+179,"2023-02-20 00:00:00",Dan,Miller,"Red Hot Chili Peppers","I Could Have Lied","Alternative & Punk",0.99,1,0.99
+179,"2023-02-20 00:00:00",Dan,Miller,"Red Hot Chili Peppers","Naked In The Rain","Alternative & Punk",0.99,1,0.99
+179,"2023-02-20 00:00:00",Dan,Miller,"Red Hot Chili Peppers","By The Way",Rock,0.99,1,0.99
+179,"2023-02-20 00:00:00",Dan,Miller,"Red Hot Chili Peppers","Can't Stop",Rock,0.99,1,0.99
+179,"2023-02-20 00:00:00",Dan,Miller,"Red Hot Chili Peppers","On Mercury",Rock,0.99,1,0.99
+308,"2024-09-26 00:00:00",Dan,Miller,"The Office","The Convention","TV Shows",1.99,1,1.99
+308,"2024-09-26 00:00:00",Dan,Miller,"The Office","The Coup","TV Shows",1.99,1,1.99
+331,"2024-12-29 00:00:00",Dan,Miller,"Antônio Carlos Jobim","Momentos Que Marcam",Latin,0.99,1,0.99
+331,"2024-12-29 00:00:00",Dan,Miller,"Antônio Carlos Jobim","Bumbo Da Mangueira",Latin,0.99,1,0.99
+331,"2024-12-29 00:00:00",Dan,Miller,"Antônio Carlos Jobim","Santo Antonio",Latin,0.99,1,0.99
+331,"2024-12-29 00:00:00",Dan,Miller,"Antônio Carlos Jobim","Só Tinha De Ser Com Você",Latin,0.99,1,0.99
+353,"2025-04-02 00:00:00",Dan,Miller,"Eric Clapton",Refazenda,Latin,0.99,1,0.99
+353,"2025-04-02 00:00:00",Dan,Miller,"Eric Clapton","A Paz",Latin,0.99,1,0.99
+353,"2025-04-02 00:00:00",Dan,Miller,"Eric Clapton","Tempo Rei",Latin,0.99,1,0.99
+353,"2025-04-02 00:00:00",Dan,Miller,"Eric Clapton","Toda Menina Baiana",Latin,0.99,1,0.99
+353,"2025-04-02 00:00:00",Dan,Miller,Godsmack,Changes,Metal,0.99,1,0.99
+353,"2025-04-02 00:00:00",Dan,Miller,Godsmack,"I Fucking Hate You",Metal,0.99,1,0.99
+405,"2025-11-21 00:00:00",Dan,Miller,U2,"Peace On Earth",Rock,0.99,1,0.99
+16,"2021-03-05 00:00:00",Kathy,Chase,"Green Day",Longview,"Alternative & Punk",0.99,1,0.99
+16,"2021-03-05 00:00:00",Kathy,Chase,"Green Day","Basket Case","Alternative & Punk",0.99,1,0.99
+16,"2021-03-05 00:00:00",Kathy,Chase,"Green Day",She,"Alternative & Punk",0.99,1,0.99
+16,"2021-03-05 00:00:00",Kathy,Chase,"Green Day","Geek Stink Breath","Alternative & Punk",0.99,1,0.99
+38,"2021-06-07 00:00:00",Kathy,Chase,"Guns N' Roses",Yesterdays,Metal,0.99,1,0.99
+38,"2021-06-07 00:00:00",Kathy,Chase,"Guns N' Roses",Breakdown,Metal,0.99,1,0.99
+38,"2021-06-07 00:00:00",Kathy,Chase,"Guns N' Roses",Estranged,Metal,0.99,1,0.99
+38,"2021-06-07 00:00:00",Kathy,Chase,Incognito,Colibri,Jazz,0.99,1,0.99
+38,"2021-06-07 00:00:00",Kathy,Chase,Incognito,"L'Arc En Ciel De Miles",Jazz,0.99,1,0.99
+38,"2021-06-07 00:00:00",Kathy,Chase,Incognito,Millenium,Jazz,0.99,1,0.99
+90,"2022-01-26 00:00:00",Kathy,Chase,U2,Desire,Rock,0.99,1,0.99
+211,"2023-07-20 00:00:00",Kathy,Chase,"Amy Winehouse","Back to Black",R&B/Soul,0.99,1,0.99
+211,"2023-07-20 00:00:00",Kathy,Chase,"Amy Winehouse","Tears Dry On Their Own",R&B/Soul,0.99,1,0.99
+222,"2023-08-30 00:00:00",Kathy,Chase,"Cidade Negra","Soldado Da Paz",Reggae,0.99,1,0.99
+222,"2023-08-30 00:00:00",Kathy,Chase,"Cidade Negra",Pensamento,Reggae,0.99,1,0.99
+222,"2023-08-30 00:00:00",Kathy,Chase,"Cidade Negra","Falar A Verdade",Reggae,0.99,1,0.99
+222,"2023-08-30 00:00:00",Kathy,Chase,"Cidade Negra","Eu Também Quero Beijar",Reggae,0.99,1,0.99
+222,"2023-08-30 00:00:00",Kathy,Chase,"Cláudio Zoli","Felicidade Urgente",Latin,0.99,1,0.99
+222,"2023-08-30 00:00:00",Kathy,Chase,"Various Artists","Levada do Amor (Ailoviu)",Pop,0.99,1,0.99
+222,"2023-08-30 00:00:00",Kathy,Chase,"Led Zeppelin","Communication Breakdown",Rock,0.99,1,0.99
+222,"2023-08-30 00:00:00",Kathy,Chase,"Led Zeppelin","I Can't Quit You Baby(2)",Rock,0.99,1,0.99
+222,"2023-08-30 00:00:00",Kathy,Chase,"Frank Zappa & Captain Beefheart","Advance Romance",Rock,0.99,1,0.99
+222,"2023-08-30 00:00:00",Kathy,Chase,"Various Artists","Camisa Verde 2001",Soundtrack,0.99,1,0.99
+222,"2023-08-30 00:00:00",Kathy,Chase,"Marcos Valle","Mas Que Nada",Latin,0.99,1,0.99
+222,"2023-08-30 00:00:00",Kathy,Chase,"Marcos Valle","Mistério da Raça",Latin,0.99,1,0.99
+222,"2023-08-30 00:00:00",Kathy,Chase,"Antônio Carlos Jobim","Tarde Em Itapoã",Latin,0.99,1,0.99
+222,"2023-08-30 00:00:00",Kathy,Chase,"Antônio Carlos Jobim","Um Jantar Pra Dois",Latin,0.99,1,0.99
+277,"2024-04-29 00:00:00",Kathy,Chase,"Os Paralamas Do Sucesso","O Beco",Latin,0.99,1,0.99
+277,"2024-04-29 00:00:00",Kathy,Chase,"Os Paralamas Do Sucesso","Romance Ideal",Latin,0.99,1,0.99
+277,"2024-04-29 00:00:00",Kathy,Chase,"Ozzy Osbourne","Flying High Again",Rock,0.99,1,0.99
+277,"2024-04-29 00:00:00",Kathy,Chase,"Ozzy Osbourne","Mr. Crowley",Metal,0.99,1,0.99
+277,"2024-04-29 00:00:00",Kathy,Chase,"Ozzy Osbourne","Children Of The Grave",Metal,0.99,1,0.99
+277,"2024-04-29 00:00:00",Kathy,Chase,"Page & Plant","When The World Was Young",Rock,0.99,1,0.99
+277,"2024-04-29 00:00:00",Kathy,Chase,"Page & Plant","Walking Into Clarksdale",Rock,0.99,1,0.99
+277,"2024-04-29 00:00:00",Kathy,Chase,Passengers,Slug,Soundtrack,0.99,1,0.99
+277,"2024-04-29 00:00:00",Kathy,Chase,Passengers,"Ito Okashi",Soundtrack,0.99,1,0.99
+406,"2025-12-04 00:00:00",Kathy,Chase,U2,"When I Look At The World",Rock,0.99,1,0.99
+406,"2025-12-04 00:00:00",Kathy,Chase,U2,"New York",Rock,0.99,1,0.99
+91,"2022-02-08 00:00:00",Heather,Leacock,U2,"When Love Comes To Town",Rock,0.99,1,0.99
+91,"2022-02-08 00:00:00",Heather,Leacock,U2,"Angel Of Harlem",Rock,0.99,1,0.99
+114,"2022-05-13 00:00:00",Heather,Leacock,"Caetano Veloso",Sozinho,Latin,0.99,1,0.99
+114,"2022-05-13 00:00:00",Heather,Leacock,"Caetano Veloso",Mel,Latin,0.99,1,0.99
+114,"2022-05-13 00:00:00",Heather,Leacock,"Caetano Veloso",Odara,Latin,0.99,1,0.99
+114,"2022-05-13 00:00:00",Heather,Leacock,"Caetano Veloso","Atrás Da Verd-E-Rosa Só Não Vai Quem Já Morreu",Latin,0.99,1,0.99
+136,"2022-08-15 00:00:00",Heather,Leacock,"Eric Clapton","Old Love",Blues,0.99,1,0.99
+136,"2022-08-15 00:00:00",Heather,Leacock,"Faith No More","Last Cup Of Sorrow","Alternative & Punk",0.99,1,0.99
+136,"2022-08-15 00:00:00",Heather,Leacock,"Faith No More","Ashes To Ashes","Alternative & Punk",0.99,1,0.99
+136,"2022-08-15 00:00:00",Heather,Leacock,"Faith No More","Home Sick Home","Alternative & Punk",0.99,1,0.99
+136,"2022-08-15 00:00:00",Heather,Leacock,"Faith No More","Midlife Crisis","Alternative & Punk",0.99,1,0.99
+136,"2022-08-15 00:00:00",Heather,Leacock,"Faith No More",Malpractice,"Alternative & Punk",0.99,1,0.99
+188,"2023-04-05 00:00:00",Heather,Leacock,"Tim Maia","Música No Ar",Latin,0.99,1,0.99
+309,"2024-09-26 00:00:00",Heather,Leacock,"The Office","The Initiation","TV Shows",1.99,1,1.99
+309,"2024-09-26 00:00:00",Heather,Leacock,"The Office","Branch Closing","TV Shows",1.99,1,1.99
+320,"2024-11-06 00:00:00",Heather,Leacock,Aerosmith,Amazing,Rock,0.99,1,0.99
+320,"2024-11-06 00:00:00",Heather,Leacock,"Alanis Morissette","You Oughta Know",Rock,0.99,1,0.99
+320,"2024-11-06 00:00:00",Heather,Leacock,"Alanis Morissette","Not The Doctor",Rock,0.99,1,0.99
+320,"2024-11-06 00:00:00",Heather,Leacock,"Alice In Chains","It Ain't Like That",Rock,0.99,1,0.99
+320,"2024-11-06 00:00:00",Heather,Leacock,"Antônio Carlos Jobim","Por Causa De Você",Jazz,0.99,1,0.99
+320,"2024-11-06 00:00:00",Heather,Leacock,"Antônio Carlos Jobim","O Boto (Bôto)",Jazz,0.99,1,0.99
+320,"2024-11-06 00:00:00",Heather,Leacock,Apocalyptica,"Welcome Home (Sanitarium)",Metal,0.99,1,0.99
+320,"2024-11-06 00:00:00",Heather,Leacock,Audioslave,Exploder,Rock,0.99,1,0.99
+320,"2024-11-06 00:00:00",Heather,Leacock,Audioslave,"Doesn't Remind Me","Alternative & Punk",0.99,1,0.99
+320,"2024-11-06 00:00:00",Heather,Leacock,BackBeat,Money,"Rock And Roll",0.99,1,0.99
+320,"2024-11-06 00:00:00",Heather,Leacock,BackBeat,Carol,"Rock And Roll",0.99,1,0.99
+320,"2024-11-06 00:00:00",Heather,Leacock,"Billy Cobham",Solo-Panhandler,Jazz,0.99,1,0.99
+320,"2024-11-06 00:00:00",Heather,Leacock,"Black Label Society","Bored To Tears",Metal,0.99,1,0.99
+320,"2024-11-06 00:00:00",Heather,Leacock,"Black Label Society","Blood In The Wall",Metal,0.99,1,0.99
+375,"2025-07-07 00:00:00",Heather,Leacock,Metallica,"Hit The Lights",Metal,0.99,1,0.99
+375,"2025-07-07 00:00:00",Heather,Leacock,Metallica,"Phantom Lord",Metal,0.99,1,0.99
+375,"2025-07-07 00:00:00",Heather,Leacock,Metallica,"The House Jack Built",Metal,0.99,1,0.99
+375,"2025-07-07 00:00:00",Heather,Leacock,Metallica,"Poor Twisted Me",Metal,0.99,1,0.99
+375,"2025-07-07 00:00:00",Heather,Leacock,Metallica,Battery,Metal,0.99,1,0.99
+375,"2025-07-07 00:00:00",Heather,Leacock,Metallica,Orion,Metal,0.99,1,0.99
+375,"2025-07-07 00:00:00",Heather,Leacock,Metallica,"Better Than You",Metal,0.99,1,0.99
+375,"2025-07-07 00:00:00",Heather,Leacock,Metallica,"Low Man's Lyric",Metal,0.99,1,0.99
+375,"2025-07-07 00:00:00",Heather,Leacock,Metallica,"Fade To Black",Metal,0.99,1,0.99
+5,"2021-01-11 00:00:00",John,Gordon,Audioslave,"Your Time Has Come","Alternative & Punk",0.99,1,0.99
+5,"2021-01-11 00:00:00",John,Gordon,Audioslave,Dandelion,"Alternative & Punk",0.99,1,0.99
+5,"2021-01-11 00:00:00",John,Gordon,BackBeat,"Rock 'N' Roll Music","Rock And Roll",0.99,1,0.99
+5,"2021-01-11 00:00:00",John,Gordon,"Billy Cobham","Moon germs",Jazz,0.99,1,0.99
+5,"2021-01-11 00:00:00",John,Gordon,"Black Label Society","Super Terrorizer",Metal,0.99,1,0.99
+5,"2021-01-11 00:00:00",John,Gordon,"Black Label Society","Heart Of Gold",Metal,0.99,1,0.99
+5,"2021-01-11 00:00:00",John,Gordon,"Black Sabbath","Evil Woman",Metal,0.99,1,0.99
+5,"2021-01-11 00:00:00",John,Gordon,"Black Sabbath",Cornucopia,Metal,0.99,1,0.99
+5,"2021-01-11 00:00:00",John,Gordon,"Body Count","Bowels Of The Devil","Alternative & Punk",0.99,1,0.99
+5,"2021-01-11 00:00:00",John,Gordon,"Body Count","Body Count Anthem","Alternative & Punk",0.99,1,0.99
+5,"2021-01-11 00:00:00",John,Gordon,"Bruce Dickinson",Jerusalem,Metal,0.99,1,0.99
+5,"2021-01-11 00:00:00",John,Gordon,"Buddy Guy","When My Left Eye Jumps",Blues,0.99,1,0.99
+5,"2021-01-11 00:00:00",John,Gordon,"Caetano Veloso",Meditação,Latin,0.99,1,0.99
+5,"2021-01-11 00:00:00",John,Gordon,"Caetano Veloso","Esse Cara",Latin,0.99,1,0.99
+60,"2021-09-11 00:00:00",John,Gordon,Metallica,"Harvester Of Sorrow",Metal,0.99,1,0.99
+60,"2021-09-11 00:00:00",John,Gordon,"Miles Davis","The Duke",Jazz,0.99,1,0.99
+60,"2021-09-11 00:00:00",John,Gordon,"Miles Davis",Lament,Jazz,0.99,1,0.99
+60,"2021-09-11 00:00:00",John,Gordon,"Milton Nascimento","Coração De Estudante",Latin,0.99,1,0.99
+60,"2021-09-11 00:00:00",John,Gordon,"Milton Nascimento","Menestrel Das Alagoas",Latin,0.99,1,0.99
+60,"2021-09-11 00:00:00",John,Gordon,"Milton Nascimento","Maria, Maria",Latin,0.99,1,0.99
+60,"2021-09-11 00:00:00",John,Gordon,"Milton Nascimento","Ponta de Areia",Latin,0.99,1,0.99
+60,"2021-09-11 00:00:00",John,Gordon,"Milton Nascimento","Norwegian Wood",Latin,0.99,1,0.99
+60,"2021-09-11 00:00:00",John,Gordon,Motörhead,"Fast And Loose",Metal,0.99,1,0.99
+189,"2023-04-18 00:00:00",John,Gordon,"Tim Maia","Salve Nossa Senhora",Latin,0.99,1,0.99
+189,"2023-04-18 00:00:00",John,Gordon,"Tim Maia","Você Fugiu",Latin,0.99,1,0.99
+212,"2023-07-21 00:00:00",John,Gordon,"Amy Winehouse","Some Unholy War",R&B/Soul,0.99,1,0.99
+212,"2023-07-21 00:00:00",John,Gordon,"Amy Winehouse","You Know I'm No Good (feat. Ghostface Killah)",R&B/Soul,0.99,1,0.99
+212,"2023-07-21 00:00:00",John,Gordon,"Amy Winehouse","Intro / Stronger Than Me",Pop,0.99,1,0.99
+212,"2023-07-21 00:00:00",John,Gordon,"Amy Winehouse","F**k Me Pumps",Pop,0.99,1,0.99
+234,"2023-10-23 00:00:00",John,Gordon,"Various Artists","Coração do Agreste (Fafá de Belém)",Latin,0.99,1,0.99
+234,"2023-10-23 00:00:00",John,Gordon,"Various Artists","Romaria (Renato Teixeira)",Latin,0.99,1,0.99
+234,"2023-10-23 00:00:00",John,Gordon,"Various Artists","Preciso Apender a Viver Só (Maysa)",Latin,0.99,1,0.99
+234,"2023-10-23 00:00:00",John,Gordon,"Creedence Clearwater Revival","Bad Moon Rising",Rock,0.99,1,0.99
+234,"2023-10-23 00:00:00",John,Gordon,"Creedence Clearwater Revival","Down On The Corner",Rock,0.99,1,0.99
+234,"2023-10-23 00:00:00",John,Gordon,"Creedence Clearwater Revival","Up Around The Bend",Rock,0.99,1,0.99
+286,"2024-06-12 00:00:00",John,Gordon,"Smashing Pumpkins","Real Love","Alternative & Punk",0.99,1,0.99
+407,"2025-12-04 00:00:00",John,Gordon,U2,"The Three Sunrises",Rock,0.99,1,0.99
+407,"2025-12-04 00:00:00",John,Gordon,U2,"Sweetest Thing",Rock,0.99,1,0.99
+92,"2022-02-08 00:00:00",Frank,Ralston,U2,"Sunday Bloody Sunday",Rock,0.99,1,0.99
+92,"2022-02-08 00:00:00",Frank,Ralston,U2,"New Year's Day",Rock,0.99,1,0.99
+103,"2022-03-21 00:00:00",Frank,Ralston,Lost,"Meet Kevin Johnson","TV Shows",1.99,1,1.99
+103,"2022-03-21 00:00:00",Frank,Ralston,"Luciana Souza/Romero Lubambo","Muita Bobeira",Latin,0.99,1,0.99
+103,"2022-03-21 00:00:00",Frank,Ralston,"Temple of the Dog","Say Hello 2 Heaven",Alternative,0.99,1,0.99
+103,"2022-03-21 00:00:00",Frank,Ralston,"Temple of the Dog","All Night Thing",Alternative,0.99,1,0.99
+103,"2022-03-21 00:00:00",Frank,Ralston,"Chris Cornell","Scar On the Sky",Alternative,0.99,1,0.99
+103,"2022-03-21 00:00:00",Frank,Ralston,Audioslave,"Until We Fall",Alternative,0.99,1,0.99
+103,"2022-03-21 00:00:00",Frank,Ralston,Audioslave,"Show Me How to Live (Live at the Quart Festival)",Alternative,0.99,1,0.99
+103,"2022-03-21 00:00:00",Frank,Ralston,"Scholars Baroque Ensemble","The Messiah: Behold, I Tell You a Mystery... The Trumpet Shall Sound",Classical,0.99,1,0.99
+103,"2022-03-21 00:00:00",Frank,Ralston,"Academy of St. Martin in the Fields, John Birch, Sir Neville Marriner & Sylvia McNair","Requiem, Op.48: 4. Pie Jesu",Classical,0.99,1,0.99
+103,"2022-03-21 00:00:00",Frank,Ralston,"The Office","Branch Closing",Comedy,1.99,1,1.99
+103,"2022-03-21 00:00:00",Frank,Ralston,"Maurizio Pollini","Piano Sonata No. 14 in C Sharp Minor, Op. 27, No. 2, "Moonlight": I. Adagio sostenuto",Classical,0.99,1,0.99
+103,"2022-03-21 00:00:00",Frank,Ralston,"Michael Tilson Thomas & San Francisco Symphony","Symphonie Fantastique, Op. 14: V. Songe d'une nuit du sabbat",Classical,0.99,1,0.99
+103,"2022-03-21 00:00:00",Frank,Ralston,"Amy Winehouse",Rehab,R&B/Soul,0.99,1,0.99
+103,"2022-03-21 00:00:00",Frank,Ralston,"Amy Winehouse","He Can Only Hold Her",R&B/Soul,0.99,1,0.99
+158,"2022-11-19 00:00:00",Frank,Ralston,"Led Zeppelin","That's The Way",Rock,0.99,1,0.99
+158,"2022-11-19 00:00:00",Frank,Ralston,"Led Zeppelin","Ten Years Gone",Rock,0.99,1,0.99
+158,"2022-11-19 00:00:00",Frank,Ralston,"Led Zeppelin","Achilles Last Stand",Rock,0.99,1,0.99
+158,"2022-11-19 00:00:00",Frank,Ralston,"Led Zeppelin","Tea For One",Rock,0.99,1,0.99
+158,"2022-11-19 00:00:00",Frank,Ralston,"Led Zeppelin","No Quarter",Rock,0.99,1,0.99
+158,"2022-11-19 00:00:00",Frank,Ralston,"Legião Urbana","Música De Trabalho",Latin,0.99,1,0.99
+158,"2022-11-19 00:00:00",Frank,Ralston,"Legião Urbana",Dezesseis,Latin,0.99,1,0.99
+158,"2022-11-19 00:00:00",Frank,Ralston,"Legião Urbana","O Livro Dos Dias",Latin,0.99,1,0.99
+158,"2022-11-19 00:00:00",Frank,Ralston,"Legião Urbana",Indios,Latin,0.99,1,0.99
+287,"2024-06-25 00:00:00",Frank,Ralston,"Smashing Pumpkins",[Untitled],"Alternative & Punk",0.99,1,0.99
+287,"2024-06-25 00:00:00",Frank,Ralston,Soundgarden,"Nothing To Say",Rock,0.99,1,0.99
+310,"2024-09-27 00:00:00",Frank,Ralston,"The Office","The Convict",Comedy,1.99,1,1.99
+310,"2024-09-27 00:00:00",Frank,Ralston,"The Office","Back from Vacation",Comedy,1.99,1,1.99
+310,"2024-09-27 00:00:00",Frank,Ralston,"The Office","Producer's Cut: The Return",Comedy,1.99,1,1.99
+310,"2024-09-27 00:00:00",Frank,Ralston,"The Office","Phyllis's Wedding",Comedy,1.99,1,1.99
+332,"2024-12-30 00:00:00",Frank,Ralston,Metallica,"Turn The Page",Metal,0.99,1,0.99
+332,"2024-12-30 00:00:00",Frank,Ralston,Metallica,Astronomy,Metal,0.99,1,0.99
+332,"2024-12-30 00:00:00",Frank,Ralston,Queen,"A Kind Of Magic",Rock,0.99,1,0.99
+332,"2024-12-30 00:00:00",Frank,Ralston,Queen,"I Want To Break Free",Rock,0.99,1,0.99
+332,"2024-12-30 00:00:00",Frank,Ralston,Queen,"Who Wants To Live Forever",Rock,0.99,1,0.99
+332,"2024-12-30 00:00:00",Frank,Ralston,Queen,"The Invisible Man",Rock,0.99,1,0.99
+384,"2025-08-20 00:00:00",Frank,Ralston,"Planet Hemp","Rappers Reais","Hip Hop/Rap",0.99,1,0.99
+17,"2021-03-06 00:00:00",Victor,Stevens,"Green Day","Stuck With Me","Alternative & Punk",0.99,1,0.99
+17,"2021-03-06 00:00:00",Victor,Stevens,"Green Day","Nice Guys Finish Last","Alternative & Punk",0.99,1,0.99
+17,"2021-03-06 00:00:00",Victor,Stevens,"Green Day","Macy's Day Parade","Alternative & Punk",0.99,1,0.99
+17,"2021-03-06 00:00:00",Victor,Stevens,"David Coverdale","Don't You Cry",Rock,0.99,1,0.99
+17,"2021-03-06 00:00:00",Victor,Stevens,"David Coverdale","Living On Love",Rock,0.99,1,0.99
+17,"2021-03-06 00:00:00",Victor,Stevens,"David Coverdale","Wherever You May Go",Rock,0.99,1,0.99
+69,"2021-10-25 00:00:00",Victor,Stevens,R.E.M.,"Carnival Of Sorts","Alternative & Punk",0.99,1,0.99
+190,"2023-04-18 00:00:00",Victor,Stevens,"Tim Maia",Compadre,Latin,0.99,1,0.99
+190,"2023-04-18 00:00:00",Victor,Stevens,"Tim Maia","Réu Confesso",Latin,0.99,1,0.99
+201,"2023-05-29 00:00:00",Victor,Stevens,"Van Halen",Neworld,Rock,0.99,1,0.99
+201,"2023-05-29 00:00:00",Victor,Stevens,"Van Halen",Primary,Rock,0.99,1,0.99
+201,"2023-05-29 00:00:00",Victor,Stevens,"Velvet Revolver",Headspace,Rock,0.99,1,0.99
+201,"2023-05-29 00:00:00",Victor,Stevens,"Vinícius De Moraes","Tudo Na Mais Santa Paz",Latin,0.99,1,0.99
+201,"2023-05-29 00:00:00",Victor,Stevens,"Vinícius De Moraes","Samba Do Jato",Latin,0.99,1,0.99
+201,"2023-05-29 00:00:00",Victor,Stevens,"Lenny Kravitz","Now You're Gone",Metal,0.99,1,0.99
+201,"2023-05-29 00:00:00",Victor,Stevens,"Zeca Pagodinho","Faixa Amarela",Latin,0.99,1,0.99
+201,"2023-05-29 00:00:00",Victor,Stevens,"Zeca Pagodinho","Sem Essa de Malandro Agulha",Latin,0.99,1,0.99
+201,"2023-05-29 00:00:00",Victor,Stevens,"Zeca Pagodinho",Verdade,Latin,0.99,1,0.99
+201,"2023-05-29 00:00:00",Victor,Stevens,"The Office","Diversity Day","TV Shows",1.99,1,1.99
+201,"2023-05-29 00:00:00",Victor,Stevens,"The Office",Halloween,"TV Shows",1.99,1,1.99
+201,"2023-05-29 00:00:00",Victor,Stevens,"The Office","The Carpet","TV Shows",1.99,1,1.99
+201,"2023-05-29 00:00:00",Victor,Stevens,"The Office","Gay Witch Hunt","TV Shows",1.99,1,1.99
+201,"2023-05-29 00:00:00",Victor,Stevens,"The Office","A Benihana Christmas, Pts. 1 & 2",Comedy,1.99,1,1.99
+256,"2024-01-27 00:00:00",Victor,Stevens,"Iron Maiden","Children of the Damned",Metal,0.99,1,0.99
+256,"2024-01-27 00:00:00",Victor,Stevens,"Iron Maiden","The Prisoner",Metal,0.99,1,0.99
+256,"2024-01-27 00:00:00",Victor,Stevens,"Iron Maiden","The Aftermath",Rock,0.99,1,0.99
+256,"2024-01-27 00:00:00",Victor,Stevens,"Iron Maiden",Futureal,Rock,0.99,1,0.99
+256,"2024-01-27 00:00:00",Victor,Stevens,"Iron Maiden","Don't Look To The Eyes Of A Stranger",Rock,0.99,1,0.99
+256,"2024-01-27 00:00:00",Victor,Stevens,"James Brown","Papa's Got A Brand New Bag Pt.1",R&B/Soul,0.99,1,0.99
+256,"2024-01-27 00:00:00",Victor,Stevens,"James Brown","Hey America",R&B/Soul,0.99,1,0.99
+256,"2024-01-27 00:00:00",Victor,Stevens,"James Brown","Living In America",R&B/Soul,0.99,1,0.99
+256,"2024-01-27 00:00:00",Victor,Stevens,Jamiroquai,"Hooked Up",Rock,0.99,1,0.99
+385,"2025-09-02 00:00:00",Victor,Stevens,"Planet Hemp","Nega Do Cabelo Duro","Hip Hop/Rap",0.99,1,0.99
+385,"2025-09-02 00:00:00",Victor,Stevens,"Planet Hemp","Hemp Family","Hip Hop/Rap",0.99,1,0.99
+408,"2025-12-05 00:00:00",Victor,Stevens,U2,"Bass Trap",Rock,0.99,1,0.99
+408,"2025-12-05 00:00:00",Victor,Stevens,U2,"Everlasting Love",Rock,0.99,1,0.99
+408,"2025-12-05 00:00:00",Victor,Stevens,U2,"Walk To The Water",Rock,0.99,1,0.99
+408,"2025-12-05 00:00:00",Victor,Stevens,U2,"Hallelujah Here She Comes",Rock,0.99,1,0.99
+70,"2021-11-07 00:00:00",Richard,Cunningham,R.E.M.,"Radio Free Aurope","Alternative & Punk",0.99,1,0.99
+70,"2021-11-07 00:00:00",Richard,Cunningham,R.E.M.,"Perfect Circle","Alternative & Punk",0.99,1,0.99
+93,"2022-02-09 00:00:00",Richard,Cunningham,U2,"Drowning Man",Rock,0.99,1,0.99
+93,"2022-02-09 00:00:00",Richard,Cunningham,U2,"Two Hearts Beat As One",Rock,0.99,1,0.99
+93,"2022-02-09 00:00:00",Richard,Cunningham,U2,Surrender,Rock,0.99,1,0.99
+93,"2022-02-09 00:00:00",Richard,Cunningham,U2,Zooropa,Rock,0.99,1,0.99
+115,"2022-05-14 00:00:00",Richard,Cunningham,"Caetano Veloso","Sozinho (Caêdrum 'n' Bass)",Latin,0.99,1,0.99
+115,"2022-05-14 00:00:00",Richard,Cunningham,"Chico Buarque","Samba De Orly",Latin,0.99,1,0.99
+115,"2022-05-14 00:00:00",Richard,Cunningham,"Chico Buarque","O Que Será (À Flor Da Terra)",Latin,0.99,1,0.99
+115,"2022-05-14 00:00:00",Richard,Cunningham,"Chico Buarque","Minha Historia",Latin,0.99,1,0.99
+115,"2022-05-14 00:00:00",Richard,Cunningham,"Chico Buarque","Geni E O Zepelim",Latin,0.99,1,0.99
+115,"2022-05-14 00:00:00",Richard,Cunningham,"Chico Buarque","Construção / Deus Lhe Pague",Latin,0.99,1,0.99
+167,"2023-01-02 00:00:00",Richard,Cunningham,"Os Paralamas Do Sucesso","Nebulosa Do Amor",Latin,0.99,1,0.99
+288,"2024-06-25 00:00:00",Richard,Cunningham,Soundgarden,"Loud Love",Rock,0.99,1,0.99
+288,"2024-06-25 00:00:00",Richard,Cunningham,Soundgarden,"Get On The Snake",Rock,0.99,1,0.99
+299,"2024-08-05 00:00:00",Richard,Cunningham,"Battlestar Galactica","Crossroads, Pt. 1","Sci Fi & Fantasy",1.99,1,1.99
+299,"2024-08-05 00:00:00",Richard,Cunningham,Heroes,"Seven Minutes to Midnight",Drama,1.99,1,1.99
+299,"2024-08-05 00:00:00",Richard,Cunningham,Heroes,"Company Man",Drama,1.99,1,1.99
+299,"2024-08-05 00:00:00",Richard,Cunningham,Lost,Orientation,"TV Shows",1.99,1,1.99
+299,"2024-08-05 00:00:00",Richard,Cunningham,Lost,"House of the Rising Sun","TV Shows",1.99,1,1.99
+299,"2024-08-05 00:00:00",Richard,Cunningham,Lost,"Lost Survival Guide",Drama,1.99,1,1.99
+299,"2024-08-05 00:00:00",Richard,Cunningham,Lost,"Enter 77",Drama,1.99,1,1.99
+299,"2024-08-05 00:00:00",Richard,Cunningham,Lost,Exposé,Drama,1.99,1,1.99
+299,"2024-08-05 00:00:00",Richard,Cunningham,Lost,Catch-22,Drama,1.99,1,1.99
+299,"2024-08-05 00:00:00",Richard,Cunningham,Lost,""?"","TV Shows",1.99,1,1.99
+299,"2024-08-05 00:00:00",Richard,Cunningham,U2,"Even Better Than The Real Thing",Rock,0.99,1,0.99
+299,"2024-08-05 00:00:00",Richard,Cunningham,U2,Acrobat,Rock,0.99,1,0.99
+299,"2024-08-05 00:00:00",Richard,Cunningham,U2,"Peace On Earth",Rock,0.99,1,0.99
+299,"2024-08-05 00:00:00",Richard,Cunningham,U2,"Dancing Barefoot",Rock,0.99,1,0.99
+354,"2025-04-05 00:00:00",Richard,Cunningham,"Green Day","American Idiot","Alternative & Punk",0.99,1,0.99
+354,"2025-04-05 00:00:00",Richard,Cunningham,"Green Day","Give Me Novacaine","Alternative & Punk",0.99,1,0.99
+354,"2025-04-05 00:00:00",Richard,Cunningham,"Green Day",Whatsername,"Alternative & Punk",0.99,1,0.99
+354,"2025-04-05 00:00:00",Richard,Cunningham,"Guns N' Roses","Paradise City",Rock,0.99,1,0.99
+354,"2025-04-05 00:00:00",Richard,Cunningham,"Guns N' Roses","Rocket Queen",Rock,0.99,1,0.99
+354,"2025-04-05 00:00:00",Richard,Cunningham,"Guns N' Roses","You Ain't the First",Rock,0.99,1,0.99
+354,"2025-04-05 00:00:00",Richard,Cunningham,"Guns N' Roses","Garden of Eden",Rock,0.99,1,0.99
+354,"2025-04-05 00:00:00",Richard,Cunningham,"Guns N' Roses","14 Years",Metal,0.99,1,0.99
+354,"2025-04-05 00:00:00",Richard,Cunningham,"Guns N' Roses","Pretty Tied Up",Metal,0.99,1,0.99
+39,"2021-06-10 00:00:00",Patrick,Gray,"Iron Maiden","These Colours Don't Run",Rock,0.99,1,0.99
+39,"2021-06-10 00:00:00",Patrick,Gray,"Iron Maiden","For the Greater Good of God",Rock,0.99,1,0.99
+39,"2021-06-10 00:00:00",Patrick,Gray,"Iron Maiden",Prowler,Metal,0.99,1,0.99
+39,"2021-06-10 00:00:00",Patrick,Gray,"Iron Maiden","Run To The Hilss",Metal,0.99,1,0.99
+39,"2021-06-10 00:00:00",Patrick,Gray,"Iron Maiden","Can I Play With Madness",Metal,0.99,1,0.99
+39,"2021-06-10 00:00:00",Patrick,Gray,"Iron Maiden","Heaven Can Wait",Metal,0.99,1,0.99
+39,"2021-06-10 00:00:00",Patrick,Gray,"Iron Maiden","Blood Brothers",Rock,0.99,1,0.99
+39,"2021-06-10 00:00:00",Patrick,Gray,"Iron Maiden","The Thin Line Between Love & Hate",Rock,0.99,1,0.99
+39,"2021-06-10 00:00:00",Patrick,Gray,"Iron Maiden","Gates Of Tomorrow","Heavy Metal",0.99,1,0.99
+168,"2023-01-15 00:00:00",Patrick,Gray,"Os Paralamas Do Sucesso",Caleidoscópio,Latin,0.99,1,0.99
+168,"2023-01-15 00:00:00",Patrick,Gray,"Os Paralamas Do Sucesso","Trac Trac",Latin,0.99,1,0.99
+191,"2023-04-19 00:00:00",Patrick,Gray,"Tim Maia","Gostava Tanto De Você",Latin,0.99,1,0.99
